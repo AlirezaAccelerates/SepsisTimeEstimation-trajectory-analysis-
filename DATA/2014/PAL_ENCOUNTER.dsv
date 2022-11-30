@@ -1,0 +1,57 @@
+pat_id,csn,age,zip_code,ed_arrival_source,pre_admit_location,ed_presentation_time,hospital_admission_date_time,hospital_discharge_date_time,admit_reason,insurance_status,cpr_in_ed,total_icu_days,total_vent_days,total_hosp_days,discharge_status,discharge_to,encounter_type,hospital
+721614,32621799,,,Med Staff Referral,Elective,,2014-02-03 17:31:00,2014-02-06 16:09:00,,PCP0/10 SPEC15/25,,,,,,Home/Self Care,Inpatient,UPMCPUH
+729123,32634406,,,Med Staff Referral,ED,,2014-12-01 01:03:00,2014-12-05 17:36:00,,GH8,,2.9292,,4.7264,,Home/Self Care,Inpatient,UPMCSHY
+235998,32653457,,,Hospital Transfer,Urgent,,2014-07-31 14:42:00,2014-08-13 17:18:00,,Medicare Part A,,9.0507,,13.2896,,Skilled Nurs Facil,Inpatient,UPMCPUH
+717643,32712891,,,Med Staff Referral,SDS Elective,,2014-08-27 15:20:00,2014-09-02 13:02:00,,Security Blue Referred,,2.2028,,14.1153,,Home Health Agency,Inpatient,UPMCPUH
+728238,32718189,,,Med Staff Referral,ED,,2014-09-16 20:08:00,2014-09-21 17:56:00,,UEP,,3.8215,,4.9729,,DSCH/PSY HOSP & UNIT,Inpatient,UPMCSHY
+630807,32730223,,,Med Staff Referral,SDS Elective,,2014-06-02 07:46:00,2014-06-18 19:00:00,,Preferred Blue PPO,,6.8667,,36.1944,,Rehab/Inpt Rehab Unt,Inpatient,UPMCSHY
+187178,32829131,,,Hospital Transfer,ED,,2014-04-21 18:53:00,2014-04-29 16:02:00,,Medicare Part A,,,,,,Home/Self Care,Inpatient,UPMCPUH
+713818,32891714,,,Med Staff Referral,ED,,2014-11-25 08:10:00,2014-11-28 14:40:00,,UPMC HLTH PPO FULL Cov,,1.0875,,3.4326,,Home/Self Care,Inpatient,UPMCSMH
+294824,32897423,,,Med Staff Referral,ED,,2014-05-13 00:44:00,2014-06-18 13:32:00,,FBL,,2.3694,,36.6639,,Hospice Med Facility,Inpatient,UPMCPUH
+294824,32897423,,,Med Staff Referral,ED,,2014-05-13 00:44:00,2014-06-18 13:32:00,,FBL,,1.3069,,36.6639,,Hospice Med Facility,Inpatient,UPMCPUH
+294824,32897423,,,Med Staff Referral,ED,,2014-05-13 00:44:00,2014-06-18 13:32:00,,FBL,,15.1076,,36.6639,,Hospice Med Facility,Inpatient,UPMCPUH
+726430,32950757,,,Med Staff Referral,ED,,2014-03-16 10:17:00,2014-03-26 15:15:00,,United Health Care,,7.909,,10.266,,Rehab/Inpt Rehab Unt,Inpatient,UPMCPUH
+715267,32968411,,,Med Staff Referral,ED,,2014-07-06 23:09:00,2014-07-14 16:49:00,,Medicare Transplant Rslat,,0.8007,,7.8326,,Home Health Agency,Inpatient,UPMCPUH
+712733,33004535,,,Med Staff Referral,ED,,2014-03-01 19:49:00,2014-03-29 13:39:00,,Medicare Part A,,5.65,,27.8667,,Home Health Agency,Inpatient,UPMCPUH
+719692,33247630,,,Med Staff Referral,ED,,2014-07-09 23:05:00,2014-07-29 13:41:00,,KY7,,1.0632,,19.6813,,Rehab/Inpt Rehab Unt,Inpatient,UPMCSMH
+719692,33247630,,,Med Staff Referral,ED,,2014-07-09 23:05:00,2014-07-29 13:41:00,,KY7,,1.6979,,19.6813,,Rehab/Inpt Rehab Unt,Inpatient,UPMCSMH
+469628,33392129,,,Med Staff Referral,ED,,2014-07-07 10:43:00,2014-07-09 17:42:00,,KY7,,2.2257,,2.391,,CTB-No Autopsy,Inpatient,UPMCSHY
+132263,33391677,,,Med Staff Referral,ED,,2014-04-04 21:39:00,2014-04-14 13:41:00,,ULS,,,,,,Home/Self Care,Inpatient,UPMCPUH
+717647,33443824,,,Hospital Transfer,ED,,2014-12-08 15:57:00,2014-12-11 16:30:00,,PCP0/10 SPEC15/25,,0.834,,3.0979,,Rehab/Inpt Rehab Unt,Inpatient,UPMCPUH
+137345,33484806,,,Med Staff Referral,SDS Elective,,2014-10-10 12:23:00,2014-11-10 14:13:00,,Preferred Blue PPO,,9.025,,55.9438,,Skilled Nurs Facil,Inpatient,UPMCPUH
+137345,33484806,,,Med Staff Referral,SDS Elective,,2014-10-10 12:23:00,2014-11-10 14:13:00,,Preferred Blue PPO,,7.9972,,55.9438,,Skilled Nurs Facil,Inpatient,UPMCPUH
+727524,33507454,,,Med Staff Referral,ED,,2014-06-24 13:24:00,2014-06-24 17:07:00,,Preferred Blue PPO,,,,,,Expired in OR,Emergency,UPMCPAS
+720300,33528918,,,Med Staff Referral,SDS Elective,,2014-10-02 07:07:00,2014-10-06 16:50:00,,Preferred Blue PPO,,0.816,,12.0403,,Home Health Agency,Inpatient,UPMCSHY
+640502,33545096,,,Med Staff Referral,ED,,2014-01-11 11:48:00,2014-01-21 18:42:00,,Security Blue Referred,,2.9639,,10.4847,,CTB-No Autopsy,Inpatient,UPMCMER
+719005,33615400,,,Med Staff Referral,Elective,,2014-07-31 11:07:00,2014-08-19 19:06:00,,FBL,,9.916,,62.2451,,Skilled Nurs Facil,Inpatient,UPMCPAS
+719005,33615400,,,Med Staff Referral,Elective,,2014-07-31 11:07:00,2014-08-19 19:06:00,,FBL,,1.0347,,62.2451,,Skilled Nurs Facil,Inpatient,UPMCPAS
+318333,33769239,,,Med Staff Referral,ED,,2014-11-14 16:24:00,2014-11-18 13:17:00,,ULS,,,,,,Against Med Advice - Inpt,Inpatient,UPMCNOR
+741539,33993069,,,Hospital Transfer,Urgent,,2014-11-11 21:37:00,2014-12-11 20:05:00,,KY7,,6.0271,,30.0097,,To a Long Term Hospital,Inpatient,UPMCPUH
+718174,34020391,,,Med Staff Referral,Urgent,,2014-02-11 17:45:00,2014-02-27 16:33:00,,KY7,,,,,,Skilled Nurs Facil,Inpatient,UPMCPUH
+68387,34190087,,,Med Staff Referral,ED,,2014-11-29 20:48:00,2014-12-03 13:06:00,,Security Blue Referred,,,,,,Home/Self Care,Inpatient,UPMCHAM
+711994,34202175,,,Med Staff Referral,SDS Elective,,2014-04-03 14:22:00,2014-04-22 13:49:00,,PCP0/10 SPEC15/25,,13.3354,,62.1271,,Skilled Nurs Facil,Inpatient,UPMCPUH
+723911,34204793,,,Med Staff Referral,SDS Elective,,2014-06-30 20:57:00,2014-07-09 14:25:00,,Preferred Blue PPO,,2.716,,29.234,,Home Health Agency,Inpatient,UPMCPAS
+722788,34216325,,,Med Staff Referral,SDS Elective,,2014-05-12 07:39:00,2014-05-22 13:06:00,,Medicare Part A,,4.1458,,35.0576,,Home/Self Care,Inpatient,UPMCSHY
+717947,34233328,,,Med Staff Referral,ED,,2014-10-04 13:18:00,2014-10-27 13:04:00,,Medicare Part A,,12.1354,,23.2951,,CTB-No Autopsy,Inpatient,UPMCPUH
+717947,34233328,,,Med Staff Referral,ED,,2014-10-04 13:18:00,2014-10-27 13:04:00,,Medicare Part A,,2.0028,,23.2951,,CTB-No Autopsy,Inpatient,UPMCPUH
+707836,34239355,,,Med Staff Referral,ED,,2014-07-23 15:40:00,2014-07-31 20:35:00,,Medicare Part A,,,,,,CTB-No Autopsy,Inpatient,UPMCNOR
+717897,34253149,,,Med Staff Referral,ED,,2014-01-05 09:39:00,2014-01-14 15:12:00,,Medicare Part A,,5.2347,,9.2694,,Skilled Nurs Facil,Inpatient,UPMCHAM
+731808,34279786,,,Med Staff Referral,ED,,2014-04-08 02:49:00,2014-04-11 18:24:00,,Medicare Part A,,,,,,Home/Self Care,Inpatient,UPMCMCK
+709118,34366236,,,Med Staff Referral,ED,,2014-01-11 22:45:00,2014-01-27 21:17:00,,Preferred Blue PPO Tx,,5.8,,16.0104,,Home Health Agency,Inpatient,UPMCPUH
+709118,34366236,,,Med Staff Referral,ED,,2014-01-11 22:45:00,2014-01-27 21:17:00,,Preferred Blue PPO Tx,,3.9681,,16.0104,,Home Health Agency,Inpatient,UPMCPUH
+725846,34378875,,,Hospital Transfer,Urgent,,2014-03-01 02:03:00,2014-03-15 14:07:00,,GAS,,7.6056,,14.5681,,Skilled Nurs Facil,Inpatient,UPMCMER
+714116,34382978,,,Med Staff Referral,Urgent,,2014-08-21 19:57:00,2014-09-05 18:16:00,,TBS,,5.8444,,15.0632,,Skilled Nurs Facil,Inpatient,UPMCMCK
+714366,34402277,,,Hospital Transfer,Urgent,,2014-05-20 17:11:00,2014-06-05 14:40:00,,Medicare Part A,,5.259,,16.0375,,Home Health Agency,Inpatient,UPMCMER
+710191,34409276,,,Med Staff Referral,Trauma Center,,2014-06-07 04:53:00,2014-06-12 15:21:00,,Progressive Insurance,,2.4896,,5.4653,,Rehab/Inpt Rehab Unt,Inpatient,UPMCPUH
+711835,34421411,,,Hospital Transfer,Urgent,,2014-07-13 21:29:00,2014-07-17 15:04:00,,X03,,2.7201,,3.8556,,Home/Self Care,Inpatient,UPMCHAM
+708952,34422771,,,Med Staff Referral,Trauma Center,,2014-08-08 23:20:00,2014-08-15 11:42:00,,Gateway Health Plan,,1.9271,,6.6174,,Home/Self Care,Inpatient,UPMCPUH
+235296,34555955,,,Med Staff Referral,ED,,2014-09-05 17:52:00,2014-10-02 18:23:00,,Security Blue Referred,,6.3201,,27.1306,,Skilled Nurs Facil,Inpatient,UPMCSMH
+731122,34593539,,,Med Staff Referral,SDS Elective,,2014-11-18 19:16:00,2014-11-22 13:31:00,,PC0/5 SP0/25 HMO Ts,,2.0722,,4.9708,,Home/Self Care,Inpatient,UPMCPUH
+200501,34639668,,,Med Staff Referral,ED,,2014-07-25 18:26:00,2014-07-29 16:30:00,,,,3.1604,,4.1375,,Home/Self Care,Inpatient,UPMCMWH
+197183,34665108,,,Med Staff Referral,ED,,2014-12-03 07:49:00,2014-12-08 15:26:00,,UPMC FOR YOU,,1.1472,,5.4021,,Home/Self Care,Inpatient,UPMCMCK
+404400,34692435,,,Med Staff Referral,ED,,2014-10-28 12:25:00,2014-10-29 19:03:00,,PCP0/10 SPEC15/25,,1.2479,,1.3083,,CTB-No Autopsy,Inpatient,UPMCPAS
+220219,34699200,,,Med Staff Referral,ED,,2014-03-19 02:21:00,2014-03-21 16:00:00,,Medicare Part A,,2.4965,,2.6847,,Hospice Med Facility,Inpatient,UPMCSHY
+260304,34718573,,,Med Staff Referral,ED,,2014-01-23 05:43:00,2014-01-27 21:55:00,,GAM,,0.9354,,4.7188,,Skilled Nurs Facil,Inpatient,UPMCMER
+260304,34718573,,,Med Staff Referral,ED,,2014-01-23 05:43:00,2014-01-27 21:55:00,,GAM,,0.2958,,4.7188,,Skilled Nurs Facil,Inpatient,UPMCMER
+122946,34810508,,,Med Staff Referral,ED,,2014-05-26 01:11:00,2014-05-31 14:40:00,,Preferred Blue PPO,,,,,,Home Health Agency,Inpatient,UPMCPUH
+122946,34810518,,,Med Staff Referral,ED,,2014-10-15 07:41:00,2014-10-18 18:01:00,,Preferred Blue PPO,,,,,,Home Health Agency,Inpatient,UPMCPUH

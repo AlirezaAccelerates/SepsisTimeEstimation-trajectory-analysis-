@@ -1,0 +1,7 @@
+pat_id,csn,age,zip_code,ed_arrival_source,pre_admit_location,ed_presentation_time,hospital_admission_date_time,hospital_discharge_date_time,admit_reason,insurance_status,cpr_in_ed,total_icu_days,total_vent_days,total_hosp_days,discharge_status,discharge_to,encounter_type,hospital
+107756,32697062,47,NULL,"Emergency Department",ED,NULL,"2010-04-01 11:43:00","2010-04-11 17:00:00",NULL,NULL,NULL,1.3028,NULL,10.2542,NULL,"Home Health Agency",Inpatient,UPMCPUH
+107770,32845700,43,NULL,"Med Staff Referral",ED,NULL,"2010-11-27 11:20:00","2010-12-02 19:23:00",NULL,"UPMC HLTH PPO FULL Cov",NULL,2.4125,NULL,5.4021,NULL,"Home Health Agency",Inpatient,UPMCPUH
+107770,32845703,45,NULL,"Med Staff Referral",ED,NULL,"2012-05-04 15:24:00","2012-05-15 14:21:00",NULL,"PCO/5 SP0/25 HMO TS",NULL,2.8361,NULL,11.0549,NULL,"Home/Self Care",Inpatient,UPMCPUH
+107770,32845704,NULL,NULL,"Med Staff Referral",ED,NULL,"2013-02-23 17:33:00","2013-03-01 17:09:00",NULL,"PCO/5 SP0/25 HMO TS",NULL,2.1236,NULL,6.1069,NULL,"Home Health Agency",Inpatient,UPMCPUH
+107778,34550642,NULL,NULL,"Med Staff Referral",Elective,NULL,"2013-12-27 14:04:00","2014-01-12 19:00:00",NULL,"UPMC FOR LIFE PPO FULL COV",NULL,5.3826,NULL,16.5174,NULL,"CTB-No Autopsy",Inpatient,UPMCMWH
+107778,34550642,NULL,NULL,"Med Staff Referral",Elective,NULL,"2013-12-27 14:04:00","2014-01-12 19:00:00",NULL,"UPMC FOR LIFE PPO FULL COV",NULL,1.8861,NULL,16.5174,NULL,"CTB-No Autopsy",Inpatient,UPMCMWH

@@ -1,0 +1,2 @@
+pat_id,csn,age,zip_code,ed_arrival_source,pre_admit_location,ed_presentation_time,hospital_admission_date_time,hospital_discharge_date_time,admit_reason,insurance_status,cpr_in_ed,total_icu_days,total_vent_days,total_hosp_days,discharge_status,discharge_to,encounter_type,hospital
+630748,32730131,NULL,NULL,"Med Staff Referral",ED,NULL,"2013-12-15 17:03:00","2013-12-15 18:10:00",NULL,"Medicare Part A",NULL,NULL,NULL,NULL,NULL,Home/Routine,Emergency,UPMCBED

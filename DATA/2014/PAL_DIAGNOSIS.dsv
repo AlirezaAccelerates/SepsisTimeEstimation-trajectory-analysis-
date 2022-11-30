@@ -1,0 +1,1400 @@
+pat_id,csn,dx_line,dx_icd_scope,dx_code_icd9,dx_code_icd10,dx_source,dx_time_date,dx_code,dx_name
+741539,33993069,Secondary,,21.21,,,2014-12-08 00:00:00,21.21,Rhinoscopy
+741539,33993069,Secondary,N,276.1,,,2014-11-11 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+741539,33993069,Secondary,Y,281.9,,,2014-11-11 00:00:00,281.9,Unspecified Deficiency Anemia
+741539,33993069,Secondary,Y,287.5,,,2014-11-11 00:00:00,287.5,"Thrombocytopenia, Unspecified"
+741539,33993069,Secondary,Y,305.00,,,2014-11-11 00:00:00,305.00,"Alcohol Abuse, Unspecified Drinking Behavior"
+741539,33993069,Secondary,Y,327.23,,,2014-11-11 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+741539,33993069,Secondary,Y,416.8,,,2014-11-11 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+741539,33993069,Secondary,N,458.9,,,2014-11-11 00:00:00,458.9,"Hypotension, Unspecified"
+741539,33993069,Secondary,Y,486,,,2014-11-11 00:00:00,486,"Pneumonia, Organism Unspecified"
+741539,33993069,Secondary,Y,493.20,,,2014-11-11 00:00:00,493.20,"Chronic Obstructive Asthma, Unspecified"
+741539,33993069,Secondary,Y,514,,,2014-11-11 00:00:00,514,Pulmonary Congestion and Hypostasis
+741539,33993069,Secondary,Y,515,,,2014-11-11 00:00:00,515,Postinflammatory Pulmonary Fibrosis
+741539,33993069,Secondary,Y,518.84,,,2014-11-11 00:00:00,518.84,Acute and Chronic Respiratory Failure
+741539,33993069,Primary,,54.91,,,2014-11-14 00:00:00,54.91,Percutaneous Abdominal Drainage
+741539,33993069,Secondary,Y,553.9,,,2014-11-11 00:00:00,553.9,Hernia of Unspecified Site without Mention of Obstruction or Gangrene
+741539,33993069,Primary,Y,571.2,,,2014-11-11 00:00:00,571.2,Alcoholic Cirrhosis of Liver
+741539,33993069,Secondary,Y,572.3,,,2014-11-11 00:00:00,572.3,Portal Hypertension
+741539,33993069,Secondary,Y,573.5,,,2014-11-11 00:00:00,573.5,Hepatopulmonary Syndrome
+741539,33993069,Secondary,N,784.7,,,2014-11-11 00:00:00,784.7,EPISTAXIS
+741539,33993069,Secondary,Y,789.59,,,2014-11-11 00:00:00,789.59,Other Ascites
+741539,33993069,Secondary,Y,790.6,,,2014-11-11 00:00:00,790.6,Other Abnormal Blood Chemistry
+741539,33993069,Secondary,E,V06.6,,,2014-11-11 00:00:00,V06.6,Need for Prophylactic Vaccination and Inoculation Against Streptococcus Pneumoniae [pneumococcus] and Influenza
+741539,33993069,Secondary,E,V15.82,,,2014-11-11 00:00:00,V15.82,Personal History of Tobacco Use
+741539,33993069,Secondary,E,V85.41,,,2014-11-11 00:00:00,V85.41,"Body Mass Index 40.0-44.9, Adult"
+220219,34699200,Secondary,Y,244.9,,,2014-03-19 00:00:00,244.9,Unspecified Hypothyroidism
+220219,34699200,Secondary,Y,294.20,,,2014-03-19 00:00:00,294.20,"Dementia, Unspecified, in Conditions Classified Elsewhere without Behavioral Disturbance"
+220219,34699200,Secondary,Y,365.9,,,2014-03-19 00:00:00,365.9,Unspecified Glaucoma
+220219,34699200,Secondary,Y,389.9,,,2014-03-19 00:00:00,389.9,Unspecified Hearing Loss
+220219,34699200,Secondary,Y,403.90,,,2014-03-19 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+220219,34699200,Secondary,Y,410.72,,,2014-03-19 00:00:00,410.72,"Acute Myocardial Infarction, Subendocardial Infarction, Subsequent Episode of Care"
+220219,34699200,Secondary,Y,414.01,,,2014-03-19 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+220219,34699200,Secondary,Y,428.0,,,2014-03-19 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+220219,34699200,Secondary,E,438.6,,,2014-03-19 00:00:00,438.6,Alterations of Sensations as Late Effect of Cerebrovascular Disease
+220219,34699200,Secondary,Y,486,,,2014-03-19 00:00:00,486,"Pneumonia, Organism Unspecified"
+220219,34699200,Primary,,496,,,2014-03-19 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+220219,34699200,Secondary,Y,496,,,2014-03-19 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+220219,34699200,Primary,Y,518.81,,,2014-03-19 00:00:00,518.81,Acute Respiratory Failure
+220219,34699200,Secondary,Y,550.90,,,2014-03-19 00:00:00,550.90,"Unilateral or Unspecified Inguinal Hernia, without Mention of Obstruction or Gangrene (Not Specified as Recurrent)"
+220219,34699200,Secondary,Y,569.84,,,2014-03-19 00:00:00,569.84,Angiodysplasia of Intestine (Without Mention of Hemorrhage)
+220219,34699200,Secondary,Y,585.9,,,2014-03-19 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+220219,34699200,Secondary,Y,600.00,,,2014-03-19 00:00:00,600.00,Hypertrophy (Benign) of Prostate without Urinary Obstruction and Other Lower Urinary Tract (Luts)
+220219,34699200,Primary,,786.09,,,2014-03-19 00:00:00,786.09,Other Dyspnea and Respiratory Abnormality
+220219,34699200,Primary,,93.90,,,2014-03-19 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+220219,34699200,Secondary,E,V10.46,,,2014-03-19 00:00:00,V10.46,Personal History of Malignant Neoplasm of Prostate
+220219,34699200,Secondary,E,V12.53,,,2014-03-19 00:00:00,V12.53,Personal History of Sudden Cardiac Arrest
+220219,34699200,Secondary,E,V15.82,,,2014-03-19 00:00:00,V15.82,Personal History of Tobacco Use
+220219,34699200,Primary,,V66.7,,,2014-03-19 00:00:00,V66.7,Encounter for Palliative Care
+220219,34699200,Secondary,E,V66.7,,,2014-03-19 00:00:00,V66.7,Encounter for Palliative Care
+404400,34692435,Secondary,Y,244.9,,,2014-10-28 00:00:00,244.9,Unspecified Hypothyroidism
+404400,34692435,Secondary,Y,250.00,,,2014-10-28 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+404400,34692435,Secondary,Y,274.9,,,2014-10-28 00:00:00,274.9,"Gout, Unspecified"
+404400,34692435,Secondary,Y,285.1,,,2014-10-28 00:00:00,285.1,Acute Posthemorrhagic Anemia
+404400,34692435,Secondary,Y,300.00,,,2014-10-28 00:00:00,300.00,"Anxiety State, Unspecified"
+404400,34692435,Secondary,Y,311,,,2014-10-28 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+404400,34692435,Secondary,Y,345.10,,,2014-10-28 00:00:00,345.10,"Generalized Convulsive Epilepsy, without Mention of Intractable Epilepsy"
+404400,34692435,Secondary,Y,348.1,,,2014-10-28 00:00:00,348.1,Anoxic Brain Damage
+404400,34692435,Secondary,,38.93,,,2014-10-28 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+404400,34692435,Secondary,Y,389.9,,,2014-10-28 00:00:00,389.9,Unspecified Hearing Loss
+404400,34692435,Secondary,Y,403.90,,,2014-10-28 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+404400,34692435,Secondary,Y,426.4,,,2014-10-28 00:00:00,426.4,Right Bundle Branch Block
+404400,34692435,Secondary,Y,427.31,,,2014-10-28 00:00:00,427.31,Atrial Fibrillation
+404400,34692435,Secondary,Y,427.41,,,2014-10-28 00:00:00,427.41,Ventricular Fibrillation
+404400,34692435,Secondary,Y,427.5,,,2014-10-28 00:00:00,427.5,Cardiac Arrest
+404400,34692435,Secondary,Y,428.0,,,2014-10-28 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+404400,34692435,Secondary,Y,458.9,,,2014-10-28 00:00:00,458.9,"Hypotension, Unspecified"
+404400,34692435,Primary,Y,518.84,,,2014-10-28 00:00:00,518.84,Acute and Chronic Respiratory Failure
+404400,34692435,Secondary,Y,584.9,,,2014-10-28 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+404400,34692435,Secondary,Y,585.9,,,2014-10-28 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+404400,34692435,Secondary,Y,716.90,,,2014-10-28 00:00:00,716.90,"Arthropathy, Unspecified, Site Unspecified"
+404400,34692435,Secondary,,96.04,,,2014-10-28 00:00:00,96.04,Insertion of Endotracheal Tube
+404400,34692435,Primary,,96.71,,,2014-10-28 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+404400,34692435,Secondary,,99.60,,,2014-10-28 00:00:00,99.60,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+404400,34692435,Secondary,Y,991.6,,,2014-10-28 00:00:00,991.6,HYPOTHERMIA
+404400,34692435,Secondary,E,V15.82,,,2014-10-28 00:00:00,V15.82,Personal History of Tobacco Use
+404400,34692435,Secondary,E,V45.61,,,2014-10-28 00:00:00,V45.61,Postsurgical Cataract Extraction Status
+404400,34692435,Secondary,E,V46.2,,,2014-10-28 00:00:00,V46.2,"Other Dependence on Machines, Supplemental Oxygen"
+404400,34692435,Secondary,E,V58.61,,,2014-10-28 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+404400,34692435,Secondary,E,V58.65,,,2014-10-28 00:00:00,V58.65,Long-Term (Current) Use of Steroids
+404400,34692435,Secondary,E,V66.7,,,2014-10-28 00:00:00,V66.7,Encounter for Palliative Care
+714366,34402277,Secondary,Y,250.00,,,2014-05-20 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+714366,34402277,Secondary,Y,272.4,,,2014-05-20 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+714366,34402277,Secondary,N,276.1,,,2014-05-20 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+714366,34402277,Secondary,Y,278.00,,,2014-05-20 00:00:00,278.00,"Obesity, Unspecified"
+714366,34402277,Secondary,N,285.1,,,2014-05-20 00:00:00,285.1,Acute Posthemorrhagic Anemia
+714366,34402277,Secondary,Y,285.29,,,2014-05-20 00:00:00,285.29,Anemia of Other Chronic Disease
+714366,34402277,Secondary,N,289.84,,,2014-05-20 00:00:00,289.84,Heparin-Induced Thrombocytopenia (HIT)
+714366,34402277,Primary,,35.21,,,2014-05-22 00:00:00,35.21,Open and Other Replacement of Aortic Valve with Tissue Graft
+714366,34402277,Secondary,,36.12,,,2014-05-22 00:00:00,36.12,(Aorto)coronary Bypass of Two Coronary Arteries
+714366,34402277,Secondary,,36.15,,,2014-05-22 00:00:00,36.15,Single Internal Mammary-Coronary Artery Bypass
+714366,34402277,Secondary,,39.61,,,2014-05-22 00:00:00,39.61,Extracorporeal Circulation Auxiliary to Open Heart Surgery
+714366,34402277,Secondary,Y,403.90,,,2014-05-20 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+714366,34402277,Secondary,Y,413.9,,,2014-05-20 00:00:00,413.9,Other and Unspecified Angina Pectoris
+714366,34402277,Secondary,Y,414.01,,,2014-05-20 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+714366,34402277,Primary,Y,424.1,,,2014-05-20 00:00:00,424.1,Aortic Valve Disorders
+714366,34402277,Secondary,N,427.31,,,2014-05-20 00:00:00,427.31,Atrial Fibrillation
+714366,34402277,Secondary,N,427.32,,,2014-05-20 00:00:00,427.32,Atrial Flutter
+714366,34402277,Secondary,Y,433.10,,,2014-05-20 00:00:00,433.10,"Occlusion and Stenosis of Carotid Artery, without Mention of Cerebral Infarction"
+714366,34402277,Secondary,Y,441.4,,,2014-05-20 00:00:00,441.4,Abdominal Aortic Aneurysm without Mention of Rupture
+714366,34402277,Secondary,N,458.9,,,2014-05-20 00:00:00,458.9,"Hypotension, Unspecified"
+714366,34402277,Secondary,Y,459.81,,,2014-05-20 00:00:00,459.81,"Venous (Peripheral) Insufficiency, Unspecified"
+714366,34402277,Secondary,Y,523.9,,,2014-05-20 00:00:00,523.9,Unspecified Gingival and Periodontal Disease
+714366,34402277,Secondary,Y,530.81,,,2014-05-20 00:00:00,530.81,Esophageal Reflux
+714366,34402277,Secondary,Y,530.85,,,2014-05-20 00:00:00,530.85,"Barrett's Esophagus"
+714366,34402277,Secondary,Y,571.8,,,2014-05-20 00:00:00,571.8,Other Chronic Nonalcoholic Liver Disease
+714366,34402277,Secondary,Y,574.20,,,2014-05-20 00:00:00,574.20,"Calculus of Gallbladder without Mention of Cholecystitis, without Mention of Obstruction"
+714366,34402277,Secondary,N,584.5,,,2014-05-20 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+714366,34402277,Secondary,Y,585.9,,,2014-05-20 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+714366,34402277,Secondary,N,599.70,,,2014-05-20 00:00:00,599.70,"Hematuria, Unspecified"
+714366,34402277,Secondary,Y,715.89,,,2014-05-20 00:00:00,715.89,"Osteoarthrosis Involving or with Mention of Multiple Sites, but Not Specified as Generalized"
+714366,34402277,Secondary,Y,733.90,,,2014-05-20 00:00:00,733.90,"Disorder of Bone and Cartilage, Unspecified"
+714366,34402277,Secondary,N,790.4,,,2014-05-20 00:00:00,790.4,Nonspecific Elevation of Levels of Transaminase or Lactic Acid Dehydrogenase [ldh]
+714366,34402277,Secondary,,88.72,,,2014-05-22 00:00:00,88.72,Diagnostic Ultrasound of Heart
+714366,34402277,Secondary,,99.04,,,2014-05-26 00:00:00,99.04,Transfusion of Packed Cells
+714366,34402277,Secondary,,99.05,,,2014-05-22 00:00:00,99.05,Transfusion of Platelets
+714366,34402277,Secondary,,99.07,,,2014-05-22 00:00:00,99.07,Transfusion of Other Serum
+714366,34402277,Secondary,N,997.1,,,2014-05-20 00:00:00,997.1,"Cardiac Complications, Not Elsewhere Classified"
+714366,34402277,Secondary,N,E878.0,,,2014-05-20 00:00:00,E878.0,"Surgical Operation with Transplant of Whole Organ Causing Abnormal Patient Reaction, or Later Complication, without Ment"
+714366,34402277,Secondary,N,E878.2,,,2014-05-20 00:00:00,E878.2,"Surgical Operation with Anastomosis, Bypass, or Graft, with Natural or Artificial Tissues Used as Implant Causing Abnorm"
+714366,34402277,Secondary,E,V15.82,,,2014-05-20 00:00:00,V15.82,Personal History of Tobacco Use
+714366,34402277,Secondary,E,V43.3,,,2014-05-20 00:00:00,V43.3,Heart Valve Replaced by Other Means
+714366,34402277,Secondary,E,V45.81,,,2014-05-20 00:00:00,V45.81,Postsurgical Aortocoronary Bypass Status
+714366,34402277,Secondary,E,V58.61,,,2014-05-20 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+714366,34402277,Secondary,E,V58.66,,,2014-05-20 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+722788,34216325,Primary,Y,209.30,,,2014-05-12 00:00:00,209.30,"Malignant Poorly Differentiated Neuroendocrine Carcinoma, Any Site"
+722788,34216325,Primary,,250.00,,,2014-05-14 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+722788,34216325,Secondary,Y,250.00,,,2014-05-12 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+722788,34216325,Primary,,276.1,,,2014-05-14 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+722788,34216325,Secondary,N,276.1,,,2014-05-12 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+722788,34216325,Secondary,N,276.8,,,2014-05-12 00:00:00,276.8,HYPOPOTASSEMIA
+722788,34216325,Secondary,N,285.1,,,2014-05-12 00:00:00,285.1,Acute Posthemorrhagic Anemia
+722788,34216325,Secondary,Y,285.22,,,2014-05-12 00:00:00,285.22,Anemia in Neoplastic Disease
+722788,34216325,Primary,,285.9,,,2014-05-14 00:00:00,285.9,"Anemia, Unspecified"
+722788,34216325,Secondary,N,287.39,,,2014-05-12 00:00:00,287.39,Other Primary Thrombocytopenia
+722788,34216325,Primary,,287.5,,,2014-05-14 00:00:00,287.5,"Thrombocytopenia, Unspecified"
+722788,34216325,Secondary,,33.24,,,2014-05-13 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+722788,34216325,Secondary,Y,365.9,,,2014-05-12 00:00:00,365.9,Unspecified Glaucoma
+722788,34216325,Primary,,39.98,,,2014-05-12 00:00:00,39.98,"Control of Hemorrhage, Not Otherwise Specified"
+722788,34216325,Primary,,401.1,,,2014-05-14 00:00:00,401.1,Benign Essential Hypertension
+722788,34216325,Secondary,Y,401.1,,,2014-05-12 00:00:00,401.1,Benign Essential Hypertension
+722788,34216325,Secondary,,47.09,,,2014-05-12 00:00:00,47.09,Other Appendectomy
+722788,34216325,Secondary,N,507.0,,,2014-05-12 00:00:00,507.0,Pneumonitis Due to Inhalation of Food or Vomitus
+722788,34216325,Secondary,,51.22,,,2014-05-12 00:00:00,51.22,Cholecystectomy
+722788,34216325,Secondary,N,514,,,2014-05-12 00:00:00,514,Pulmonary Congestion and Hypostasis
+722788,34216325,Secondary,N,518.81,,,2014-05-12 00:00:00,518.81,Acute Respiratory Failure
+722788,34216325,Secondary,,54.4,,,2014-05-12 00:00:00,54.4,Excision or Destruction of Peritoneal Tissue
+722788,34216325,Secondary,Y,620.2,,,2014-05-12 00:00:00,620.2,Other and Unspecified Ovarian Cyst
+722788,34216325,Secondary,Y,783.7,,,2014-05-12 00:00:00,783.7,Adult Failure to Thrive
+722788,34216325,Primary,,789.30,,,2014-05-14 00:00:00,789.30,"Abdominal or Pelvic Swelling, Mass, or Lump, Unspecified Site"
+722788,34216325,Secondary,N,794.31,,,2014-05-12 00:00:00,794.31,Nonspecific Abnormal Electrocardiogram [ECG] [ekg]
+722788,34216325,Secondary,N,934.8,,,2014-05-12 00:00:00,934.8,Foreign Body in Other Specified Parts Bronchus and Lung
+722788,34216325,Secondary,,96.04,,,2014-05-12 00:00:00,96.04,Insertion of Endotracheal Tube
+722788,34216325,Secondary,,96.71,,,2014-05-12 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+722788,34216325,Secondary,,99.04,,,2014-05-12 00:00:00,99.04,Transfusion of Packed Cells
+722788,34216325,Secondary,,99.07,,,2014-05-12 00:00:00,99.07,Transfusion of Other Serum
+722788,34216325,Secondary,N,998.09,,,2014-05-12 00:00:00,998.09,"Postoperative Shock, Other"
+722788,34216325,Secondary,N,998.11,,,2014-05-12 00:00:00,998.11,Hemorrhage Complicating a Procedure
+722788,34216325,Secondary,N,E878.8,,,2014-05-12 00:00:00,E878.8,"Other Specified Surgical Operations and Procedures Causing Abnormal Patient Reaction, or Later Complication, without Men"
+722788,34216325,Secondary,N,E912,,,2014-05-12 00:00:00,E912,Inhalation and Ingestion of Other Object Causing Obstruction of Respiratory Tract or Suffocation
+722788,34216325,Secondary,E,V45.61,,,2014-05-12 00:00:00,V45.61,Postsurgical Cataract Extraction Status
+722788,34216325,Secondary,E,V58.67,,,2014-05-12 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+711994,34202175,Secondary,Y,250.00,,,2014-04-03 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+711994,34202175,Secondary,Y,272.4,,,2014-04-03 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+711994,34202175,Secondary,N,276.0,,,2014-04-03 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+711994,34202175,Secondary,N,276.2,,,2014-04-03 00:00:00,276.2,ACIDOSIS
+711994,34202175,Secondary,N,276.69,,,2014-04-03 00:00:00,276.69,Other Fluid Overload
+711994,34202175,Secondary,Y,278.00,,,2014-04-03 00:00:00,278.00,"Obesity, Unspecified"
+711994,34202175,Secondary,,33.24,,,2014-04-05 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+711994,34202175,Secondary,,38.91,,,2014-04-06 00:00:00,38.91,Arterial Catheterization
+711994,34202175,Secondary,,38.97,,,2014-04-05 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+711994,34202175,Secondary,Y,401.9,,,2014-04-03 00:00:00,401.9,Unspecified Essential Hypertension
+711994,34202175,Secondary,Y,493.20,,,2014-04-03 00:00:00,493.20,"Chronic Obstructive Asthma, Unspecified"
+711994,34202175,Secondary,N,518.0,,,2014-04-03 00:00:00,518.0,Pulmonary Collapse
+711994,34202175,Secondary,N,518.51,,,2014-04-03 00:00:00,518.51,Acute Respiratory Failure Following Trauma and Surgery
+711994,34202175,Primary,,53.69,,,2014-04-03 00:00:00,53.69,Other and Open Repair of Other Hernia of Anterior Abdominal Wall with Graft or Prosthesis
+711994,34202175,Primary,Y,553.21,,,2014-04-03 00:00:00,553.21,Incisional Hernia without Mention of Obstruction or Gangrene
+711994,34202175,Secondary,N,560.1,,,2014-04-03 00:00:00,560.1,Paralytic Ileus
+719692,33247630,Secondary,,00.94,,,2014-07-24 00:00:00,00.94,Intra-Operative Neurophysiologic Monitoring
+719692,33247630,Secondary,Y,041.49,,,2014-07-09 00:00:00,041.49,Other and Unspecified Escherichia Coli [E. Coli] Infection in Conditions Classified Elsewhere and of Unspecified Site
+719692,33247630,Secondary,Y,070.54,,,2014-07-09 00:00:00,070.54,Chronic Hepatitis C without Mention of Hepatic Coma
+719692,33247630,Secondary,Y,244.9,,,2014-07-09 00:00:00,244.9,Unspecified Hypothyroidism
+719692,33247630,Secondary,N,275.2,,,2014-07-09 00:00:00,275.2,Disorders of Magnesium Metabolism
+719692,33247630,Secondary,N,276.8,,,2014-07-09 00:00:00,276.8,HYPOPOTASSEMIA
+719692,33247630,Secondary,N,285.1,,,2014-07-09 00:00:00,285.1,Acute Posthemorrhagic Anemia
+719692,33247630,Secondary,N,336.1,,,2014-07-09 00:00:00,336.1,Vascular Myelopathies
+719692,33247630,Secondary,,34.09,,,2014-07-18 00:00:00,34.09,Other Incision of Pleura
+719692,33247630,Secondary,N,344.1,,,2014-07-09 00:00:00,344.1,PARAPLEGIA
+719692,33247630,Secondary,,38.97,,,2014-07-21 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+719692,33247630,Secondary,Y,401.9,,,2014-07-09 00:00:00,401.9,Unspecified Essential Hypertension
+719692,33247630,Secondary,N,564.00,,,2014-07-09 00:00:00,564.00,"Constipation, Unspecified"
+719692,33247630,Secondary,,59.8,,,2014-07-10 00:00:00,59.8,Ureteral Catheterization
+719692,33247630,Secondary,,59.95,,,2014-07-10 00:00:00,59.95,Ultrasonic Fragmentation of Urinary Stones
+719692,33247630,Secondary,Y,590.80,,,2014-07-09 00:00:00,590.80,"Pyelonephritis, Unspecified"
+719692,33247630,Secondary,Y,591,,,2014-07-09 00:00:00,591,HYDRONEPHROSIS
+719692,33247630,Secondary,Y,592.0,,,2014-07-09 00:00:00,592.0,Calculus of Kidney
+719692,33247630,Primary,Y,592.1,,,2014-07-09 00:00:00,592.1,Calculus of Ureter
+719692,33247630,Secondary,N,596.89,,,2014-07-09 00:00:00,596.89,Other Specified Disorders of Bladder
+719692,33247630,Secondary,Y,715.90,,,2014-07-09 00:00:00,715.90,"[DJD] OSTEOARTHROSIS, UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED, INVOLVING UNSPECIFIED SITE"
+719692,33247630,Secondary,N,730.28,,,2014-07-09 00:00:00,730.28,Unspecified Osteomyelitis Involving Other Specified Sites
+719692,33247630,Secondary,,77.71,,,2014-07-18 00:00:00,77.71,"Excision of Scapula, Clavicle, and Thorax [ribs and Sternum] for Graft"
+719692,33247630,Secondary,,77.79,,,2014-07-24 00:00:00,77.79,"Excision of Other Bone for Graft, Except Facial Bones"
+719692,33247630,Secondary,N,780.62,,,2014-07-09 00:00:00,780.62,Postprocedural Fever
+719692,33247630,Secondary,N,785.0,,,2014-07-09 00:00:00,785.0,"Tachycardia, Unspecified"
+719692,33247630,Secondary,,80.99,,,2014-07-18 00:00:00,80.99,Other Excision of Joint of Other Specified Site
+719692,33247630,Primary,,81.04,,,2014-07-18 00:00:00,81.04,"Dorsal and Dorsolumbar Fusion of the Anterior Column, Anterior Technique"
+719692,33247630,Secondary,,81.05,,,2014-07-24 00:00:00,81.05,"Dorsal and Dorsolumbar Fusion of the Posterior Column, Posterior Technique"
+719692,33247630,Secondary,,81.62,,,2014-07-18 00:00:00,81.62,Fusion or Refusion of 2-3 Vertebrae
+719692,33247630,Secondary,,81.63,,,2014-07-24 00:00:00,81.63,Fusion or Refusion of 4- 8 Vertebrae
+719692,33247630,Secondary,,87.74,,,2014-07-10 00:00:00,87.74,Retrograde Pyelogram
+719692,33247630,Secondary,,97.62,,,2014-07-22 00:00:00,97.62,Removal of Ureterostomy Tube and Ureteral Catheter
+719692,33247630,Secondary,,99.04,,,2014-07-25 00:00:00,99.04,Transfusion of Packed Cells
+719692,33247630,Secondary,E,V85.38,,,2014-07-09 00:00:00,V85.38,"Body Mass Index 38.0-38.9, Adult"
+122946,34810508,Secondary,Y,250.62,,,2014-05-26 00:00:00,250.62,"Diabetes mellitus with neurological manifestations, type II or unspecified type, uncontrolled"
+122946,34810508,Secondary,Y,276.1,,,2014-05-26 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+122946,34810508,Secondary,Y,278.01,,,2014-05-26 00:00:00,278.01,Morbid Obesity
+122946,34810508,Secondary,Y,300.00,,,2014-05-26 00:00:00,300.00,"Anxiety State, Unspecified"
+122946,34810508,Secondary,Y,305.1,,,2014-05-26 00:00:00,305.1,Tobacco Use Disorder
+122946,34810508,Secondary,Y,311,,,2014-05-26 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+122946,34810508,Secondary,Y,327.23,,,2014-05-26 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+122946,34810508,Secondary,Y,338.29,,,2014-05-26 00:00:00,338.29,Other Chronic Pain
+122946,34810508,Secondary,Y,357.2,,,2014-05-26 00:00:00,357.2,Polyneuropathy in Diabetes
+122946,34810508,Primary,,37.21,,,2014-05-29 00:00:00,37.21,Right Heart Cardiac Catheterization
+122946,34810508,Secondary,E,412,,,2014-05-26 00:00:00,412,Old Myocardial Infarction
+122946,34810508,Secondary,Y,416.8,,,2014-05-26 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+122946,34810508,Secondary,Y,428.0,,,2014-05-26 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+122946,34810508,Primary,Y,428.33,,,2014-05-26 00:00:00,428.33,Acute on Chronic Diastolic Heart Failure
+122946,34810508,Secondary,Y,492.8,,,2014-05-26 00:00:00,492.8,Other Emphysema
+122946,34810508,Secondary,Y,530.81,,,2014-05-26 00:00:00,530.81,Esophageal Reflux
+122946,34810508,Secondary,Y,564.1,,,2014-05-26 00:00:00,564.1,Irritable Bowel Syndrome
+122946,34810508,Secondary,Y,571.8,,,2014-05-26 00:00:00,571.8,Other Chronic Nonalcoholic Liver Disease
+122946,34810508,Secondary,N,584.9,,,2014-05-26 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+122946,34810508,Secondary,Y,789.59,,,2014-05-26 00:00:00,789.59,Other Ascites
+122946,34810508,Secondary,E,V46.2,,,2014-05-26 00:00:00,V46.2,"Other Dependence on Machines, Supplemental Oxygen"
+122946,34810508,Secondary,E,V58.65,,,2014-05-26 00:00:00,V58.65,Long-Term (Current) Use of Steroids
+122946,34810508,Secondary,E,V58.66,,,2014-05-26 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+122946,34810508,Secondary,E,V58.67,,,2014-05-26 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+721614,32621799,Primary,,00.50,,,2014-02-04 00:00:00,00.50,"Implantation of Cardiac Resynchronization Pacemaker without Mention of Defibrillation, Total System [CRT-P]"
+721614,32621799,Secondary,Y,250.00,,,2014-02-03 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+721614,32621799,Secondary,Y,327.23,,,2014-02-03 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+721614,32621799,Secondary,,37.34,,,2014-02-04 00:00:00,37.34,"Excision or Destruction of Other Lesion or Tissue of Heart, Endovascular Approach"
+721614,32621799,Secondary,Y,414.00,,,2014-02-03 00:00:00,414.00,"Coronary Atherosclerosis of Unspecified Type of Vessel, Native or Graft"
+721614,32621799,Primary,Y,427.31,,,2014-02-03 00:00:00,427.31,Atrial Fibrillation
+721614,32621799,Secondary,Y,428.0,,,2014-02-03 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+721614,32621799,Secondary,Y,428.32,,,2014-02-03 00:00:00,428.32,Chronic Diastolic Heart Failure
+721614,32621799,Secondary,N,564.00,,,2014-02-03 00:00:00,564.00,"Constipation, Unspecified"
+721614,32621799,Secondary,Y,724.5,,,2014-02-03 00:00:00,724.5,"Backache, Unspecified"
+721614,32621799,Secondary,E,V15.82,,,2014-02-03 00:00:00,V15.82,Personal History of Tobacco Use
+721614,32621799,Secondary,E,V43.3,,,2014-02-03 00:00:00,V43.3,Heart Valve Replaced by Other Means
+721614,32621799,Secondary,E,V45.01,,,2014-02-03 00:00:00,V45.01,Cardiac Pacemaker in Situ
+721614,32621799,Secondary,E,V45.81,,,2014-02-03 00:00:00,V45.81,Postsurgical Aortocoronary Bypass Status
+721614,32621799,Secondary,E,V45.82,,,2014-02-03 00:00:00,V45.82,"Percutaneous Transluminal Coronary Angioplasty, Postsurgical Status"
+721614,32621799,Secondary,E,V58.61,,,2014-02-03 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+721614,32621799,Secondary,E,V58.67,,,2014-02-03 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+718174,34020391,Secondary,Y,244.9,,,2014-02-11 00:00:00,244.9,Unspecified Hypothyroidism
+718174,34020391,Primary,Y,250.70,,,2014-02-11 00:00:00,250.70,"Diabetes Mellitus with Peripheral  Circulatory Disorders, Type II or Unspecified Type, Not Stated as Uncontrolled"
+718174,34020391,Primary,,250.80,,,2014-02-12 00:00:00,250.80,"Diabetes mellitus type 2 w/other manifestations, not stated as uncontrolled"
+718174,34020391,Secondary,Y,272.4,,,2014-02-11 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+718174,34020391,Secondary,Y,278.01,,,2014-02-11 00:00:00,278.01,Morbid Obesity
+718174,34020391,Secondary,Y,284.19,,,2014-02-11 00:00:00,284.19,Other Pancytopenia
+718174,34020391,Secondary,N,285.1,,,2014-02-11 00:00:00,285.1,Acute Posthemorrhagic Anemia
+718174,34020391,Secondary,Y,285.21,,,2014-02-11 00:00:00,285.21,Anemia in Chronic Kidney Disease
+718174,34020391,Secondary,Y,286.6,,,2014-02-11 00:00:00,286.6,Defibrination Syndrome
+718174,34020391,Primary,,288.4,,,2014-02-12 00:00:00,288.4,HLH (hemophagocytic lymphohistiocytosis)
+718174,34020391,Secondary,Y,288.4,,,2014-02-11 00:00:00,288.4,Hemophagocytic Syndromes
+718174,34020391,Secondary,Y,300.00,,,2014-02-11 00:00:00,300.00,"Anxiety State, Unspecified"
+718174,34020391,Secondary,Y,327.23,,,2014-02-11 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+718174,34020391,Secondary,,38.97,,,2014-02-13 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+718174,34020391,Secondary,Y,389.9,,,2014-02-11 00:00:00,389.9,Unspecified Hearing Loss
+718174,34020391,Primary,,401.9,,,2014-02-12 00:00:00,401.9,HTN [Hypertension]
+718174,34020391,Secondary,Y,401.9,,,2014-02-11 00:00:00,401.9,Unspecified Essential Hypertension
+718174,34020391,Secondary,Y,403.91,,,2014-02-11 00:00:00,403.91,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage V or End Stage Renal Disease"
+718174,34020391,Secondary,E,438.83,,,2014-02-11 00:00:00,438.83,Facial Weakness as Late Effect of Cerebrovascular Disease
+718174,34020391,Secondary,Y,443.0,,,2014-02-11 00:00:00,443.0,"Raynaud's Syndrome"
+718174,34020391,Secondary,Y,584.5,,,2014-02-11 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+718174,34020391,Secondary,Y,585.6,,,2014-02-11 00:00:00,585.6,End Stage Renal Disease
+718174,34020391,Secondary,Y,695.3,,,2014-02-11 00:00:00,695.3,ROSACEA
+718174,34020391,Secondary,Y,714.0,,,2014-02-11 00:00:00,714.0,Rheumatoid Arthritis
+718174,34020391,Primary,,785.4,,,2014-02-13 00:00:00,785.4,GANGRENE
+718174,34020391,Secondary,Y,785.4,,,2014-02-11 00:00:00,785.4,GANGRENE
+718174,34020391,Primary,,84.13,,,2014-02-12 00:00:00,84.13,Disarticulation of Ankle
+718174,34020391,Secondary,,84.15,,,2014-02-18 00:00:00,84.15,Other Amputation Below Knee
+718174,34020391,Secondary,N,997.60,,,2014-02-11 00:00:00,997.60,Unspecified Late Complication of Amputation Stump
+718174,34020391,Secondary,N,998.11,,,2014-02-11 00:00:00,998.11,Hemorrhage Complicating a Procedure
+718174,34020391,Secondary,N,E849.7,,,2014-02-11 00:00:00,E849.7,Accidents Occurring in Residential Institution
+718174,34020391,Secondary,N,E878.5,,,2014-02-11 00:00:00,E878.5,"Amputation of Limb(s) Causing Abnormal Patient Reaction, or Later Complication, without Mention of Misadventure at Time"
+718174,34020391,Secondary,Y,V09.80,,,2014-02-11 00:00:00,V09.80,"Infection with Microorganisms Resistant to Other Specified Drugs, without Mention of Resistance to Multiple Drugs"
+718174,34020391,Secondary,E,V15.82,,,2014-02-11 00:00:00,V15.82,Personal History of Tobacco Use
+718174,34020391,Secondary,E,V45.11,,,2014-02-11 00:00:00,V45.11,Renal Dialysis Status
+718174,34020391,Secondary,E,V58.61,,,2014-02-11 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+718174,34020391,Secondary,E,V58.65,,,2014-02-11 00:00:00,V58.65,Long-Term (Current) Use of Steroids
+718174,34020391,Secondary,E,V58.67,,,2014-02-11 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+718174,34020391,Secondary,E,V58.69,,,2014-02-11 00:00:00,V58.69,Long-Term (Current) Use of Other Medications
+718174,34020391,Secondary,E,V85.41,,,2014-02-11 00:00:00,V85.41,"Body Mass Index 40.0-44.9, Adult"
+708952,34422771,Secondary,Y,305.1,,,2014-08-08 00:00:00,305.1,Tobacco Use Disorder
+708952,34422771,Secondary,,31.42,,,2014-08-10 00:00:00,31.42,Laryngoscopy and Other Tracheoscopy
+708952,34422771,Secondary,,38.93,,,2014-08-08 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+708952,34422771,Secondary,N,458.9,,,2014-08-08 00:00:00,458.9,"Hypotension, Unspecified"
+708952,34422771,Secondary,Y,493.90,,,2014-08-08 00:00:00,493.90,"Asthma, Unspecified"
+708952,34422771,Secondary,Y,518.82,,,2014-08-08 00:00:00,518.82,"Other Pulmonary Insufficiency, Not Elsewhere Classified"
+708952,34422771,Secondary,N,787.20,,,2014-08-08 00:00:00,787.20,"Dysphagia, Unspecified"
+708952,34422771,Secondary,Y,801.00,,,2014-08-08 00:00:00,801.00,"Closed Fracture of Base of Skull without Mention of Intracranial Injury, with State of Consciousness Unspecified"
+708952,34422771,Secondary,Y,805.01,,,2014-08-08 00:00:00,805.01,"Closed Fracture of First Cervical Vertebra, without Mention of Spinal Cord Injury"
+708952,34422771,Secondary,,88.41,,,2014-08-09 00:00:00,88.41,Arteriography of Cerebral Arteries
+708952,34422771,Primary,Y,959.01,,,2014-08-08 00:00:00,959.01,"Head Injury, Unspecified"
+708952,34422771,Primary,,96.04,,,2014-08-08 00:00:00,96.04,Insertion of Endotracheal Tube
+708952,34422771,Secondary,,96.71,,,2014-08-09 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+708952,34422771,Secondary,Y,E965.4,,,2014-08-08 00:00:00,E965.4,Assault by Other and Unspecified Firearm
+708952,34422771,Secondary,E,V58.66,,,2014-08-08 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+711994,34202175,Secondary,Y,568.0,,,2014-04-03 00:00:00,568.0,Peritoneal Adhesions (Postoperative) (Postinfection)
+711994,34202175,Secondary,N,584.9,,,2014-04-03 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+711994,34202175,Secondary,Y,715.90,,,2014-04-03 00:00:00,715.90,"[DJD] OSTEOARTHROSIS, UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED, INVOLVING UNSPECIFIED SITE"
+711994,34202175,Secondary,N,785.0,,,2014-04-03 00:00:00,785.0,"Tachycardia, Unspecified"
+711994,34202175,Secondary,Y,860.0,,,2014-04-03 00:00:00,860.0,Traumatic Pneumothorax without Mention of Open Wound Into Thorax
+711994,34202175,Secondary,,96.04,,,2014-04-05 00:00:00,96.04,Insertion of Endotracheal Tube
+711994,34202175,Secondary,,96.6,,,2014-04-06 00:00:00,96.6,Enteral Infusion of Concentrated Nutritional Substances
+711994,34202175,Secondary,,96.72,,,2014-04-05 00:00:00,96.72,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+711994,34202175,Secondary,,99.15,,,2014-04-05 00:00:00,99.15,Parenteral Infusion of Concentrated Nutritional Substances
+711994,34202175,Secondary,E,V15.82,,,2014-04-03 00:00:00,V15.82,Personal History of Tobacco Use
+731122,34593539,Secondary,Y,244.9,,,2014-11-18 00:00:00,244.9,Unspecified Hypothyroidism
+731122,34593539,Secondary,Y,272.4,,,2014-11-18 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+731122,34593539,Secondary,Y,311,,,2014-11-18 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+731122,34593539,Secondary,,34.04,,,2014-11-18 00:00:00,34.04,Insertion of Intercostal Catheter for Drainage
+731122,34593539,Secondary,Y,346.90,,,2014-11-18 00:00:00,346.90,"Migraine, Unspecified, without Mention of Intractable Migraine, without Mention of Status Migrainosus"
+731122,34593539,Secondary,Y,401.9,,,2014-11-18 00:00:00,401.9,Unspecified Essential Hypertension
+731122,34593539,Secondary,,44.67,,,2014-11-18 00:00:00,44.67,Laparoscopic Procedures for Creation of Esophagogastric Sphincteric Competence
+731122,34593539,Secondary,Y,492.8,,,2014-11-18 00:00:00,492.8,Other Emphysema
+731122,34593539,Secondary,Y,493.90,,,2014-11-18 00:00:00,493.90,"Asthma, Unspecified"
+731122,34593539,Secondary,Y,518.81,,,2014-11-18 00:00:00,518.81,Acute Respiratory Failure
+731122,34593539,Primary,,53.71,,,2014-11-18 00:00:00,53.71,"Laparoscopic Repair of Diaphragmatic Hernia, Abdominal Approach"
+731122,34593539,Secondary,,53.80,,,2014-11-18 00:00:00,53.80,"Repair of Diaphragmatic Hernia with Thoracic Approach, Not Otherwise Specified"
+731122,34593539,Secondary,Y,530.81,,,2014-11-18 00:00:00,530.81,Esophageal Reflux
+731122,34593539,Primary,Y,553.3,,,2014-11-18 00:00:00,553.3,Diaphragmatic Hernia without Mention of Obstruction or Gangrene
+731122,34593539,Secondary,Y,568.0,,,2014-11-18 00:00:00,568.0,Peritoneal Adhesions (Postoperative) (Postinfection)
+731122,34593539,Secondary,Y,780.52,,,2014-11-18 00:00:00,780.52,"Insomnia, Unspecified"
+731122,34593539,Secondary,,96.04,,,2014-11-19 00:00:00,96.04,Insertion of Endotracheal Tube
+731122,34593539,Secondary,,96.71,,,2014-11-19 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+731122,34593539,Secondary,E,V45.4,,,2014-11-18 00:00:00,V45.4,Postsurgical Arthrodesis Status
+630807,32730223,Primary,Y,197.6,,,2014-06-02 00:00:00,197.6,Secondary Malignant Neoplasm of Retroperitoneum and Peritoneum
+630807,32730223,Secondary,Y,244.9,,,2014-06-02 00:00:00,244.9,Unspecified Hypothyroidism
+630807,32730223,Secondary,N,276.1,,,2014-06-02 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+630807,32730223,Secondary,N,276.2,,,2014-06-02 00:00:00,276.2,ACIDOSIS
+630807,32730223,Secondary,N,276.52,,,2014-06-02 00:00:00,276.52,Hypovolemia
+630807,32730223,Secondary,Y,276.7,,,2014-06-02 00:00:00,276.7,HYPERPOTASSEMIA
+630807,32730223,Secondary,N,285.1,,,2014-06-02 00:00:00,285.1,Acute Posthemorrhagic Anemia
+630807,32730223,Secondary,N,286.9,,,2014-06-02 00:00:00,286.9,Other and Unspecified Coagulation Defects
+630807,32730223,Secondary,N,287.5,,,2014-06-02 00:00:00,287.5,"Thrombocytopenia, Unspecified"
+630807,32730223,Secondary,,38.91,,,2014-06-04 00:00:00,38.91,Arterial Catheterization
+630807,32730223,Secondary,,38.93,,,2014-06-07 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+630807,32730223,Secondary,,38.95,,,2014-06-13 00:00:00,38.95,Venous Catheterization for Renal Dialysis
+630807,32730223,Secondary,,39.31,,,2014-06-02 00:00:00,39.31,Suture of Artery
+630807,32730223,Secondary,,39.95,,,2014-06-08 00:00:00,39.95,Hemodialysis
+630807,32730223,Secondary,Y,401.9,,,2014-06-02 00:00:00,401.9,Unspecified Essential Hypertension
+630807,32730223,Secondary,,45.23,,,2014-06-03 00:00:00,45.23,Colonoscopy
+630807,32730223,Secondary,Y,453.3,,,2014-06-02 00:00:00,453.3,Embolism and Thrombosis of Renal Vein
+630807,32730223,Secondary,N,458.9,,,2014-06-02 00:00:00,458.9,"Hypotension, Unspecified"
+630807,32730223,Primary,,54.4,,,2014-06-02 00:00:00,54.4,Excision or Destruction of Peritoneal Tissue
+630807,32730223,Secondary,,55.51,,,2014-06-02 00:00:00,55.51,Nephroureterectomy
+630807,32730223,Secondary,N,557.0,,,2014-06-02 00:00:00,557.0,Acute Vascular Insufficiency of Intestine
+630807,32730223,Secondary,N,560.1,,,2014-06-02 00:00:00,560.1,Paralytic Ileus
+630807,32730223,Secondary,N,569.3,,,2014-06-02 00:00:00,569.3,Hemorrhage of Rectum and Anus
+630807,32730223,Secondary,Y,575.3,,,2014-06-02 00:00:00,575.3,Hydrops of Gallbladder
+630807,32730223,Secondary,N,576.8,,,2014-06-02 00:00:00,576.8,Other Specified Disorders of Biliary Tract
+630807,32730223,Secondary,N,584.5,,,2014-06-02 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+630807,32730223,Secondary,N,790.92,,,2014-06-02 00:00:00,790.92,Abnormal Coagulation Profile
+630807,32730223,Secondary,,99.04,,,2014-06-08 00:00:00,99.04,Transfusion of Packed Cells
+630807,32730223,Secondary,,99.05,,,2014-06-08 00:00:00,99.05,Transfusion of Platelets
+630807,32730223,Secondary,,99.07,,,2014-06-08 00:00:00,99.07,Transfusion of Other Serum
+630807,32730223,Secondary,N,998.12,,,2014-06-02 00:00:00,998.12,Hematoma Complicating a Procedure
+630807,32730223,Secondary,N,998.2,,,2014-06-02 00:00:00,998.2,Accidental Puncture or Laceration During a Procedure
+630807,32730223,Secondary,N,E870.0,,,2014-06-02 00:00:00,E870.0,"Accidental Cut, Puncture, Perforation or Hemorrhage During Surgical Operation"
+630807,32730223,Secondary,N,E878.8,,,2014-06-02 00:00:00,E878.8,"Other Specified Surgical Operations and Procedures Causing Abnormal Patient Reaction, or Later Complication, without Men"
+630807,32730223,Secondary,E,V10.47,,,2014-06-02 00:00:00,V10.47,Personal History of Malignant Neoplasm of Testis
+630807,32730223,Secondary,E,V45.11,,,2014-06-02 00:00:00,V45.11,Renal Dialysis Status
+630807,32730223,Secondary,E,V58.66,,,2014-06-02 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+197183,34665108,Secondary,Y,250.00,,,2014-12-03 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+197183,34665108,Secondary,Y,268.9,,,2014-12-03 00:00:00,268.9,Unspecified Vitamin D Deficiency
+197183,34665108,Secondary,Y,272.4,,,2014-12-03 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+197183,34665108,Secondary,Y,278.01,,,2014-12-03 00:00:00,278.01,Morbid Obesity
+197183,34665108,Secondary,Y,285.9,,,2014-12-03 00:00:00,285.9,"Anemia, Unspecified"
+197183,34665108,Secondary,Y,311,,,2014-12-03 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+197183,34665108,Secondary,Y,327.23,,,2014-12-03 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+197183,34665108,Secondary,Y,401.9,,,2014-12-03 00:00:00,401.9,Unspecified Essential Hypertension
+197183,34665108,Secondary,Y,414.01,,,2014-12-03 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+197183,34665108,Secondary,Y,428.0,,,2014-12-03 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+197183,34665108,Primary,Y,428.23,,,2014-12-03 00:00:00,428.23,Acute on Chronic Systolic Heart Failure
+197183,34665108,Secondary,Y,486,,,2014-12-03 00:00:00,486,"Pneumonia, Organism Unspecified"
+197183,34665108,Secondary,Y,491.22,,,2014-12-03 00:00:00,491.22,Obstructive Chronic Bronchitis with Acute Bronchitis
+197183,34665108,Secondary,Y,518.84,,,2014-12-03 00:00:00,518.84,Acute and Chronic Respiratory Failure
+197183,34665108,Secondary,Y,530.81,,,2014-12-03 00:00:00,530.81,Esophageal Reflux
+197183,34665108,Secondary,Y,721.90,,,2014-12-03 00:00:00,721.90,Spondylosis of Unspecified Site without Mention of Myelopathy
+197183,34665108,Primary,,93.90,,,2014-12-03 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+197183,34665108,Secondary,E,V15.82,,,2014-12-03 00:00:00,V15.82,Personal History of Tobacco Use
+197183,34665108,Secondary,E,V58.66,,,2014-12-03 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+197183,34665108,Secondary,E,V85.43,,,2014-12-03 00:00:00,V85.43,"Body Mass Index 50.0-59.9, Adult"
+187178,32829131,Secondary,Y,250.00,,,2014-04-21 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+187178,32829131,Secondary,Y,305.1,,,2014-04-21 00:00:00,305.1,Tobacco Use Disorder
+187178,32829131,Secondary,Y,344.1,,,2014-04-21 00:00:00,344.1,PARAPLEGIA
+187178,32829131,Secondary,Y,401.9,,,2014-04-21 00:00:00,401.9,Unspecified Essential Hypertension
+187178,32829131,Secondary,Y,403.90,,,2014-04-21 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+187178,32829131,Primary,Y,453.40,,,2014-04-21 00:00:00,453.40,Acute Venous Embolism and Thrombosis of Unspecified Deep Vessels of Lower Extremity
+187178,32829131,Secondary,Y,530.81,,,2014-04-21 00:00:00,530.81,Esophageal Reflux
+187178,32829131,Secondary,Y,585.9,,,2014-04-21 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+187178,32829131,Secondary,Y,593.9,,,2014-04-21 00:00:00,593.9,Unspecified Disorder of Kidney and Ureter
+187178,32829131,Secondary,Y,608.86,,,2014-04-21 00:00:00,608.86,Edema of Male Genital Organs
+187178,32829131,Secondary,Y,707.03,,,2014-04-21 00:00:00,707.03,"Pressure Ulcer, Lower Back"
+187178,32829131,Secondary,Y,707.07,,,2014-04-21 00:00:00,707.07,"Pressure Ulcer, Heel"
+187178,32829131,Secondary,Y,707.22,,,2014-04-21 00:00:00,707.22,Pressure Ulcer Stage II
+187178,32829131,Secondary,E,V45.81,,,2014-04-21 00:00:00,V45.81,Postsurgical Aortocoronary Bypass Status
+187178,32829131,Secondary,E,V58.61,,,2014-04-21 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+122946,34810518,Secondary,E,V15.81,,,2014-10-15 00:00:00,V15.81,"Personal History of Noncompliance with Medical Treatment, Presenting Hazards to Health"
+122946,34810518,Secondary,E,V46.2,,,2014-10-15 00:00:00,V46.2,"Other Dependence on Machines, Supplemental Oxygen"
+122946,34810518,Secondary,E,V58.67,,,2014-10-15 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+122946,34810518,Secondary,E,V85.39,,,2014-10-15 00:00:00,V85.39,"Body Mass Index 39.0-39.9, Adult"
+68387,34190087,Secondary,Y,244.9,,,2014-11-29 00:00:00,244.9,Unspecified Hypothyroidism
+68387,34190087,Secondary,Y,250.00,,,2014-11-29 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+68387,34190087,Secondary,Y,272.4,,,2014-11-29 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+68387,34190087,Secondary,N,285.9,,,2014-11-29 00:00:00,285.9,"Anemia, Unspecified"
+68387,34190087,Secondary,Y,401.0,,,2014-11-29 00:00:00,401.0,Malignant Essential Hypertension
+68387,34190087,Primary,,42.92,,,2014-12-02 00:00:00,42.92,Dilation of Esophagus
+68387,34190087,Secondary,Y,426.3,,,2014-11-29 00:00:00,426.3,Other Left Bundle Branch Block
+68387,34190087,Secondary,Y,433.20,,,2014-11-29 00:00:00,433.20,"Occlusion and Stenosis of Vertebral Artery, without Mention of Cerebral Infarction"
+68387,34190087,Primary,Y,530.3,,,2014-11-29 00:00:00,530.3,Stricture and Stenosis of Esophagus
+68387,34190087,Secondary,Y,530.5,,,2014-11-29 00:00:00,530.5,Dyskinesia of Esophagus
+68387,34190087,Secondary,Y,733.00,,,2014-11-29 00:00:00,733.00,"Osteoporosis, Unspecified"
+68387,34190087,Secondary,Y,787.20,,,2014-11-29 00:00:00,787.20,"Dysphagia, Unspecified"
+68387,34190087,Secondary,Y,790.6,,,2014-11-29 00:00:00,790.6,Other Abnormal Blood Chemistry
+68387,34190087,Secondary,,99.29,,,2014-12-02 00:00:00,99.29,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+68387,34190087,Secondary,E,V10.05,,,2014-11-29 00:00:00,V10.05,Personal History of Malignant Neoplasm of Large Intestine
+68387,34190087,Secondary,E,V10.3,,,2014-11-29 00:00:00,V10.3,Personal History of Malignant Neoplasm of Breast
+68387,34190087,Secondary,E,V12.54,,,2014-11-29 00:00:00,V12.54,"Personal History of Transient Ischemic Attack (TIA), and Cerebral Infarction without Residual Deficits"
+469628,33392129,Primary,Y,038.9,,,2014-07-07 00:00:00,038.9,Unspecified Septicemia
+469628,33392129,Secondary,Y,197.0,,,2014-07-07 00:00:00,197.0,Secondary Malignant Neoplasm of Lung
+469628,33392129,Secondary,Y,197.7,,,2014-07-07 00:00:00,197.7,"Malignant Neoplasm of Liver, Specified as Secondary"
+469628,33392129,Secondary,Y,250.00,,,2014-07-07 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+469628,33392129,Secondary,Y,276.1,,,2014-07-07 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+469628,33392129,Secondary,Y,276.2,,,2014-07-07 00:00:00,276.2,ACIDOSIS
+469628,33392129,Secondary,Y,276.51,,,2014-07-07 00:00:00,276.51,Dehydration
+469628,33392129,Secondary,Y,276.7,,,2014-07-07 00:00:00,276.7,HYPERPOTASSEMIA
+469628,33392129,Secondary,Y,284.19,,,2014-07-07 00:00:00,284.19,Other Pancytopenia
+469628,33392129,Secondary,Y,284.89,,,2014-07-07 00:00:00,284.89,Other Specified Aplastic Anemias
+469628,33392129,Secondary,Y,287.2,,,2014-07-07 00:00:00,287.2,Other Nonthrombocytopenic Purpuras
+469628,33392129,Secondary,Y,287.5,,,2014-07-07 00:00:00,287.5,"Thrombocytopenia, Unspecified"
+469628,33392129,Secondary,,38.91,,,2014-07-07 00:00:00,38.91,Arterial Catheterization
+469628,33392129,Secondary,,38.93,,,2014-07-07 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+469628,33392129,Secondary,,38.95,,,2014-07-09 00:00:00,38.95,Venous Catheterization for Renal Dialysis
+469628,33392129,Secondary,Y,403.90,,,2014-07-07 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+469628,33392129,Secondary,Y,427.31,,,2014-07-07 00:00:00,427.31,Atrial Fibrillation
+469628,33392129,Secondary,N,427.5,,,2014-07-07 00:00:00,427.5,Cardiac Arrest
+469628,33392129,Secondary,Y,486,,,2014-07-07 00:00:00,486,"Pneumonia, Organism Unspecified"
+469628,33392129,Secondary,Y,492.8,,,2014-07-07 00:00:00,492.8,Other Emphysema
+469628,33392129,Secondary,Y,518.81,,,2014-07-07 00:00:00,518.81,Acute Respiratory Failure
+469628,33392129,Secondary,Y,560.1,,,2014-07-07 00:00:00,560.1,Paralytic Ileus
+469628,33392129,Secondary,Y,571.2,,,2014-07-07 00:00:00,571.2,Alcoholic Cirrhosis of Liver
+469628,33392129,Secondary,Y,572.2,,,2014-07-07 00:00:00,572.2,Hepatic Encephalopathy
+469628,33392129,Secondary,Y,584.5,,,2014-07-07 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+469628,33392129,Secondary,Y,584.9,,,2014-07-07 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+469628,33392129,Secondary,Y,585.9,,,2014-07-07 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+469628,33392129,Secondary,Y,593.4,,,2014-07-07 00:00:00,593.4,Other Ureteric Obstruction
+469628,33392129,Secondary,Y,785.52,,,2014-07-07 00:00:00,785.52,Septic Shock
+469628,33392129,Primary,,96.04,,,2014-07-07 00:00:00,96.04,Insertion of Endotracheal Tube
+469628,33392129,Secondary,,96.71,,,2014-07-07 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+469628,33392129,Secondary,,99.04,,,2014-07-07 00:00:00,99.04,Transfusion of Packed Cells
+469628,33392129,Secondary,,99.05,,,2014-07-07 00:00:00,99.05,Transfusion of Platelets
+469628,33392129,Secondary,Y,995.92,,,2014-07-07 00:00:00,995.92,Severe Sepsis
+469628,33392129,Secondary,Y,E933.1,,,2014-07-07 00:00:00,E933.1,Antineoplastic and Immunosuppressive Drugs Causing Adverse Effects in Therapeutic Use
+469628,33392129,Secondary,E,V10.51,,,2014-07-07 00:00:00,V10.51,Personal History of Malignant Neoplasm of Bladder
+469628,33392129,Secondary,E,V15.82,,,2014-07-07 00:00:00,V15.82,Personal History of Tobacco Use
+469628,33392129,Secondary,Y,V49.86,,,2014-07-07 00:00:00,V49.86,Do Not Resuscitate Status
+714116,34382978,Primary,Y,038.9,,,2014-08-21 00:00:00,038.9,Unspecified Septicemia
+714116,34382978,Secondary,N,112.0,,,2014-08-21 00:00:00,112.0,Candidiasis of Mouth
+714116,34382978,Secondary,Y,255.41,,,2014-08-21 00:00:00,255.41,Glucocorticoid Deficiency
+714116,34382978,Secondary,N,275.41,,,2014-08-21 00:00:00,275.41,HYPOCALCEMIA
+714116,34382978,Secondary,N,276.0,,,2014-08-21 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+714116,34382978,Secondary,N,276.2,,,2014-08-21 00:00:00,276.2,ACIDOSIS
+714116,34382978,Secondary,N,276.52,,,2014-08-21 00:00:00,276.52,Hypovolemia
+714116,34382978,Secondary,N,276.8,,,2014-08-21 00:00:00,276.8,HYPOPOTASSEMIA
+714116,34382978,Secondary,Y,278.01,,,2014-08-21 00:00:00,278.01,Morbid Obesity
+714116,34382978,Secondary,N,285.1,,,2014-08-21 00:00:00,285.1,Acute Posthemorrhagic Anemia
+714116,34382978,Secondary,Y,327.23,,,2014-08-21 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+714116,34382978,Secondary,Y,338.29,,,2014-08-21 00:00:00,338.29,Other Chronic Pain
+714116,34382978,Primary,,38.7,,,2014-08-29 00:00:00,38.7,Interruption of the Vena Cava
+714116,34382978,Secondary,,38.91,,,2014-08-25 00:00:00,38.91,Arterial Catheterization
+714116,34382978,Secondary,N,423.9,,,2014-08-21 00:00:00,423.9,Unspecified Disease of Pericardium
+714116,34382978,Secondary,Y,425.4,,,2014-08-21 00:00:00,425.4,Other Primary Cardiomyopathies
+714116,34382978,Secondary,Y,427.31,,,2014-08-21 00:00:00,427.31,Atrial Fibrillation
+714116,34382978,Secondary,N,427.89,,,2014-08-21 00:00:00,427.89,Other Specified Cardiac Dysrhythmias
+714116,34382978,Secondary,Y,428.0,,,2014-08-21 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+714116,34382978,Secondary,Y,428.30,,,2014-08-21 00:00:00,428.30,Unspecified Diastolic Heart Failure
+714116,34382978,Secondary,Y,441.2,,,2014-08-21 00:00:00,441.2,Thoracic Aortic Aneurysm without Mention of Rupture
+714116,34382978,Secondary,Y,441.4,,,2014-08-21 00:00:00,441.4,Abdominal Aortic Aneurysm without Mention of Rupture
+714116,34382978,Secondary,N,459.0,,,2014-08-21 00:00:00,459.0,"Hemorrhage, Unspecified"
+714116,34382978,Secondary,Y,486,,,2014-08-21 00:00:00,486,"Pneumonia, Organism Unspecified"
+714116,34382978,Secondary,Y,496,,,2014-08-21 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+714116,34382978,Secondary,N,518.81,,,2014-08-21 00:00:00,518.81,Acute Respiratory Failure
+714116,34382978,Secondary,N,584.9,,,2014-08-21 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+714116,34382978,Secondary,Y,715.90,,,2014-08-21 00:00:00,715.90,"[DJD] OSTEOARTHROSIS, UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED, INVOLVING UNSPECIFIED SITE"
+714116,34382978,Secondary,Y,719.45,,,2014-08-21 00:00:00,719.45,Pain in Joint Involving Pelvic Region and Thigh
+714116,34382978,Secondary,Y,724.5,,,2014-08-21 00:00:00,724.5,"Backache, Unspecified"
+714116,34382978,Secondary,N,785.59,,,2014-08-21 00:00:00,785.59,Other Shock without Mention of Trauma
+714116,34382978,Secondary,N,790.5,,,2014-08-21 00:00:00,790.5,Other Nonspecific Abnormal Serum Enzyme Levels
+714116,34382978,Secondary,N,790.94,,,2014-08-21 00:00:00,790.94,Euthyroid Sick Syndrome
+714116,34382978,Secondary,,96.04,,,2014-08-26 00:00:00,96.04,Insertion of Endotracheal Tube
+714116,34382978,Secondary,,96.71,,,2014-08-26 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+714116,34382978,Secondary,,99.04,,,2014-08-26 00:00:00,99.04,Transfusion of Packed Cells
+714116,34382978,Secondary,,99.07,,,2014-08-25 00:00:00,99.07,Transfusion of Other Serum
+714116,34382978,Secondary,Y,995.92,,,2014-08-21 00:00:00,995.92,Severe Sepsis
+714116,34382978,Secondary,N,E934.2,,,2014-08-21 00:00:00,E934.2,Anticoagulants Causing Adverse Effects in Therapeutic Use
+714116,34382978,Secondary,E,V12.51,,,2014-08-21 00:00:00,V12.51,Personal History of Venous Thrombosis and Embolism
+714116,34382978,Secondary,E,V12.55,,,2014-08-21 00:00:00,V12.55,Personal History of Pulmonary Embolism
+714116,34382978,Secondary,E,V13.59,,,2014-08-21 00:00:00,V13.59,Personal History of Other Musculoskeletal Disorders
+714116,34382978,Secondary,E,V15.82,,,2014-08-21 00:00:00,V15.82,Personal History of Tobacco Use
+714116,34382978,Secondary,E,V45.72,,,2014-08-21 00:00:00,V45.72,Acquired Absence of Intestine (Large) (Small)
+714116,34382978,Secondary,E,V58.61,,,2014-08-21 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+714116,34382978,Secondary,E,V58.65,,,2014-08-21 00:00:00,V58.65,Long-Term (Current) Use of Steroids
+714116,34382978,Secondary,E,V66.7,,,2014-08-21 00:00:00,V66.7,Encounter for Palliative Care
+714116,34382978,Secondary,E,V85.35,,,2014-08-21 00:00:00,V85.35,"Body Mass Index 35.0-35.9, Adult"
+235998,32653457,Secondary,Y,496,,,2014-07-31 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+235998,32653457,Secondary,Y,513.0,,,2014-07-31 00:00:00,513.0,Abscess of Lung
+235998,32653457,Secondary,Y,518.81,,,2014-07-31 00:00:00,518.81,Acute Respiratory Failure
+235998,32653457,Secondary,Y,584.9,,,2014-07-31 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+235998,32653457,Secondary,N,682.3,,,2014-07-31 00:00:00,682.3,Cellulitis and Abscess of Upper Arm and Forearm
+235998,32653457,Secondary,Y,785.52,,,2014-07-31 00:00:00,785.52,Septic Shock
+235998,32653457,Secondary,,86.01,,,2014-08-11 00:00:00,86.01,Aspiration of Skin and Subcutaneous Tissue
+235998,32653457,Secondary,,96.6,,,2014-08-01 00:00:00,96.6,Enteral Infusion of Concentrated Nutritional Substances
+235998,32653457,Primary,,96.72,,,2014-07-31 00:00:00,96.72,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+235998,32653457,Secondary,Y,995.92,,,2014-07-31 00:00:00,995.92,Severe Sepsis
+235998,32653457,Secondary,E,V02.62,,,2014-07-31 00:00:00,V02.62,Hepatitis C Carrier
+235998,32653457,Secondary,E,V12.51,,,2014-07-31 00:00:00,V12.51,Personal History of Venous Thrombosis and Embolism
+235998,32653457,Secondary,E,V15.81,,,2014-07-31 00:00:00,V15.81,"Personal History of Noncompliance with Medical Treatment, Presenting Hazards to Health"
+235998,32653457,Secondary,E,V15.82,,,2014-07-31 00:00:00,V15.82,Personal History of Tobacco Use
+235998,32653457,Secondary,E,V46.2,,,2014-07-31 00:00:00,V46.2,"Other Dependence on Machines, Supplemental Oxygen"
+235998,32653457,Secondary,E,V58.61,,,2014-07-31 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+235998,32653457,Secondary,,00.17,,,2014-07-31 00:00:00,00.17,Infusion of Vasopressor Agent
+235998,32653457,Primary,Y,038.9,,,2014-07-31 00:00:00,038.9,Unspecified Septicemia
+235998,32653457,Secondary,Y,263.9,,,2014-07-31 00:00:00,263.9,Unspecified Protein-Calorie Malnutrition
+235998,32653457,Secondary,Y,276.2,,,2014-07-31 00:00:00,276.2,ACIDOSIS
+235998,32653457,Secondary,N,276.52,,,2014-07-31 00:00:00,276.52,Hypovolemia
+235998,32653457,Secondary,N,276.69,,,2014-07-31 00:00:00,276.69,Other Fluid Overload
+235998,32653457,Secondary,Y,280.9,,,2014-07-31 00:00:00,280.9,"Iron Deficiency Anemia, Unspecified"
+235998,32653457,Secondary,Y,281.1,,,2014-07-31 00:00:00,281.1,Other Vitamin B12 Deficiency Anemia
+235998,32653457,Secondary,Y,289.81,,,2014-07-31 00:00:00,289.81,Primary Hypercoagulable State
+235998,32653457,Secondary,Y,292.0,,,2014-07-31 00:00:00,292.0,Drug Withdrawal
+235998,32653457,Secondary,Y,300.00,,,2014-07-31 00:00:00,300.00,"Anxiety State, Unspecified"
+235998,32653457,Secondary,Y,304.01,,,2014-07-31 00:00:00,304.01,"Opioid Type Dependence, Continuous Use"
+235998,32653457,Secondary,Y,311,,,2014-07-31 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+235998,32653457,Secondary,,38.97,,,2014-08-10 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+235998,32653457,Secondary,Y,411.89,,,2014-07-31 00:00:00,411.89,Other Acute and Subacute Forms of Ischemic Heart Disease
+235998,32653457,Secondary,Y,441.4,,,2014-07-31 00:00:00,441.4,Abdominal Aortic Aneurysm without Mention of Rupture
+137345,33484806,Secondary,Y,041.12,,,2014-10-10 00:00:00,041.12,Methicillin Resistant Staphylococcus Aureus Infection in Conditions Classified Elsewhere and of Unspecified Site
+137345,33484806,Secondary,,21.01,,,2014-11-01 00:00:00,21.01,Control of Epistaxis by Anterior Nasal Packing
+137345,33484806,Secondary,Y,244.9,,,2014-10-10 00:00:00,244.9,Unspecified Hypothyroidism
+137345,33484806,Secondary,N,263.9,,,2014-10-10 00:00:00,263.9,Unspecified Protein-Calorie Malnutrition
+137345,33484806,Secondary,N,275.3,,,2014-10-10 00:00:00,275.3,Disorders of Phosphorus Metabolism
+137345,33484806,Secondary,N,276.0,,,2014-10-10 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+137345,33484806,Secondary,N,276.1,,,2014-10-10 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+137345,33484806,Secondary,N,276.2,,,2014-10-10 00:00:00,276.2,ACIDOSIS
+137345,33484806,Secondary,Y,285.9,,,2014-10-10 00:00:00,285.9,"Anemia, Unspecified"
+137345,33484806,Secondary,N,291.0,,,2014-10-10 00:00:00,291.0,Alcohol Withdrawal Delirium
+137345,33484806,Secondary,Y,300.00,,,2014-10-10 00:00:00,300.00,"Anxiety State, Unspecified"
+137345,33484806,Secondary,Y,303.90,,,2014-10-10 00:00:00,303.90,"Other and Unspecified Alcohol Dependence, Unspecified Drinking Behavior"
+137345,33484806,Secondary,Y,311,,,2014-10-10 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+137345,33484806,Secondary,Y,401.9,,,2014-10-10 00:00:00,401.9,Unspecified Essential Hypertension
+137345,33484806,Secondary,N,426.2,,,2014-10-10 00:00:00,426.2,Left Bundle Branch Hemiblock
+137345,33484806,Secondary,N,427.89,,,2014-10-10 00:00:00,427.89,Other Specified Cardiac Dysrhythmias
+137345,33484806,Secondary,Y,428.0,,,2014-10-10 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+137345,33484806,Secondary,Y,428.30,,,2014-10-10 00:00:00,428.30,Unspecified Diastolic Heart Failure
+137345,33484806,Secondary,N,453.81,,,2014-10-10 00:00:00,453.81,Acute Venous Embolism and Thrombosis of Superficial Veins of Upper Extremity
+137345,33484806,Secondary,N,453.82,,,2014-10-10 00:00:00,453.82,Acute Venous Embolism and Thrombosis of Deep Veins of Upper Extremity
+137345,33484806,Secondary,N,453.84,,,2014-10-10 00:00:00,453.84,Acute Venous Embolism and Thrombosis of Axillary Veins
+137345,33484806,Secondary,N,458.9,,,2014-10-10 00:00:00,458.9,"Hypotension, Unspecified"
+137345,33484806,Secondary,Y,491.20,,,2014-10-10 00:00:00,491.20,"Obstructive Chronic Bronchitis, without  Exacerbation"
+137345,33484806,Secondary,N,518.51,,,2014-10-10 00:00:00,518.51,Acute Respiratory Failure Following Trauma and Surgery
+137345,33484806,Secondary,Y,530.81,,,2014-10-10 00:00:00,530.81,Esophageal Reflux
+137345,33484806,Primary,,54.11,,,2014-10-10 00:00:00,54.11,Exploratory Laparotomy
+137345,33484806,Secondary,,54.59,,,2014-10-10 00:00:00,54.59,Other Lysis of Peritoneal Adhesions
+137345,33484806,Secondary,Y,568.0,,,2014-10-10 00:00:00,568.0,Peritoneal Adhesions (Postoperative) (Postinfection)
+137345,33484806,Secondary,Y,574.20,,,2014-10-10 00:00:00,574.20,"Calculus of Gallbladder without Mention of Cholecystitis, without Mention of Obstruction"
+137345,33484806,Secondary,N,584.9,,,2014-10-10 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+137345,33484806,Primary,,780.09,,,2014-10-24 00:00:00,780.09,Other Alteration of Consciousness
+137345,33484806,Secondary,N,780.65,,,2014-10-10 00:00:00,780.65,Hypothermia Not Associated with Low Environmental Temperature
+137345,33484806,Secondary,N,784.7,,,2014-10-10 00:00:00,784.7,EPISTAXIS
+137345,33484806,Secondary,N,787.91,,,2014-10-10 00:00:00,787.91,Diarrhea
+137345,33484806,Secondary,N,788.20,,,2014-10-10 00:00:00,788.20,"Retention of Urine, Unspecified"
+137345,33484806,Secondary,N,788.30,,,2014-10-10 00:00:00,788.30,"Urinary Incontinence, Unspecified"
+137345,33484806,Secondary,N,790.92,,,2014-10-10 00:00:00,790.92,Abnormal Coagulation Profile
+137345,33484806,Secondary,,87.03,,,2014-10-24 00:00:00,87.03,Computerized Axial Tomography of Head
+137345,33484806,Secondary,,88.91,,,2014-10-25 00:00:00,88.91,Magnetic Resonance Imaging of Brain and Brain Stem
+137345,33484806,Secondary,,96.6,,,2014-10-16 00:00:00,96.6,Enteral Infusion of Concentrated Nutritional Substances
+137345,33484806,Secondary,,96.71,,,2014-10-10 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+137345,33484806,Primary,Y,996.69,,,2014-10-10 00:00:00,996.69,"Infection and Inflammatory Reaction Due to Other Internal Prosthetic Device, Implant, and Graft"
+137345,33484806,Secondary,Y,E878.1,,,2014-10-10 00:00:00,E878.1,"Surgical Operation with Implant of Artificial Internal Device Causing Abnormal Patient Reaction, or Later Complication,"
+137345,33484806,Secondary,N,E934.2,,,2014-10-10 00:00:00,E934.2,Anticoagulants Causing Adverse Effects in Therapeutic Use
+137345,33484806,Secondary,E,V10.21,,,2014-10-10 00:00:00,V10.21,Personal History of Malignant Neoplasm of Larynx
+137345,33484806,Secondary,E,V12.51,,,2014-10-10 00:00:00,V12.51,Personal History of Venous Thrombosis and Embolism
+137345,33484806,Secondary,E,V15.82,,,2014-10-10 00:00:00,V15.82,Personal History of Tobacco Use
+137345,33484806,Secondary,E,V44.0,,,2014-10-10 00:00:00,V44.0,Tracheostomy Status
+137345,33484806,Secondary,E,V85.21,,,2014-10-10 00:00:00,V85.21,"Body Mass Index 25.0-25.9, Adult"
+122946,34810518,Secondary,Y,250.52,,,2014-10-15 00:00:00,250.52,"Diabetes mellitus with ophthalmic manifestations, type II or unspecified type, uncontrolled"
+122946,34810518,Secondary,Y,250.62,,,2014-10-15 00:00:00,250.62,"Diabetes mellitus with neurological manifestations, type II or unspecified type, uncontrolled"
+122946,34810518,Secondary,Y,278.00,,,2014-10-15 00:00:00,278.00,"Obesity, Unspecified"
+122946,34810518,Secondary,Y,285.9,,,2014-10-15 00:00:00,285.9,"Anemia, Unspecified"
+122946,34810518,Secondary,Y,300.00,,,2014-10-15 00:00:00,300.00,"Anxiety State, Unspecified"
+122946,34810518,Secondary,Y,305.1,,,2014-10-15 00:00:00,305.1,Tobacco Use Disorder
+122946,34810518,Secondary,Y,311,,,2014-10-15 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+122946,34810518,Secondary,Y,327.23,,,2014-10-15 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+122946,34810518,Secondary,Y,357.2,,,2014-10-15 00:00:00,357.2,Polyneuropathy in Diabetes
+122946,34810518,Secondary,Y,362.01,,,2014-10-15 00:00:00,362.01,Background Diabetic Retinopathy
+122946,34810518,Secondary,Y,394.9,,,2014-10-15 00:00:00,394.9,Other and Unspecified Mitral Valve Diseases
+122946,34810518,Secondary,E,412,,,2014-10-15 00:00:00,412,Old Myocardial Infarction
+122946,34810518,Secondary,Y,416.8,,,2014-10-15 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+122946,34810518,Secondary,Y,428.0,,,2014-10-15 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+122946,34810518,Primary,Y,428.33,,,2014-10-15 00:00:00,428.33,Acute on Chronic Diastolic Heart Failure
+122946,34810518,Secondary,Y,429.3,,,2014-10-15 00:00:00,429.3,CARDIOMEGALY
+122946,34810518,Secondary,Y,455.6,,,2014-10-15 00:00:00,455.6,Unspecified Hemorrhoids without Mention of Complication
+122946,34810518,Secondary,Y,496,,,2014-10-15 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+122946,34810518,Secondary,Y,514,,,2014-10-15 00:00:00,514,Pulmonary Congestion and Hypostasis
+122946,34810518,Secondary,Y,516.34,,,2014-10-15 00:00:00,516.34,Respiratory Bronchiolitis Interstitial Lung Disease
+122946,34810518,Secondary,Y,536.3,,,2014-10-15 00:00:00,536.3,GASTROPARESIS
+122946,34810518,Secondary,Y,564.1,,,2014-10-15 00:00:00,564.1,Irritable Bowel Syndrome
+122946,34810518,Secondary,Y,571.8,,,2014-10-15 00:00:00,571.8,Other Chronic Nonalcoholic Liver Disease
+122946,34810518,Secondary,Y,578.9,,,2014-10-15 00:00:00,578.9,"Hemorrhage of Gastrointestinal Tract, Unspecified"
+122946,34810518,Secondary,Y,620.2,,,2014-10-15 00:00:00,620.2,Other and Unspecified Ovarian Cyst
+122946,34810518,Secondary,Y,729.1,,,2014-10-15 00:00:00,729.1,"Myalgia and myositis, unspecified"
+122946,34810518,Secondary,Y,782.3,,,2014-10-15 00:00:00,782.3,EDEMA
+726430,32950757,Secondary,,01.39,,,2014-03-16 00:00:00,01.39,Other Incision of Brain
+726430,32950757,Secondary,,02.12,,,2014-03-19 00:00:00,02.12,Other Repair of Cerebral Meninges
+726430,32950757,Secondary,,02.21,,,2014-03-16 00:00:00,02.21,Insertion or Replacement of External Ventricular Drain [evd]
+726430,32950757,Secondary,Y,276.8,,,2014-03-16 00:00:00,276.8,HYPOPOTASSEMIA
+726430,32950757,Secondary,N,285.1,,,2014-03-16 00:00:00,285.1,Acute Posthemorrhagic Anemia
+726430,32950757,Secondary,Y,304.00,,,2014-03-16 00:00:00,304.00,"Opioid Type Dependence, Unspecified Use"
+726430,32950757,Primary,,344.40,,,2014-03-25 00:00:00,344.40,Monoplegia of Upper Limb Affecting Unspecified Side
+726430,32950757,Secondary,Y,344.40,,,2014-03-16 00:00:00,344.40,Monoplegia of Upper Limb Affecting Unspecified Side
+726430,32950757,Secondary,Y,348.5,,,2014-03-16 00:00:00,348.5,Cerebral Edema
+726430,32950757,Primary,,369.9,,,2014-03-25 00:00:00,369.9,Unspecified Visual Loss
+726430,32950757,Primary,,38.41,,,2014-03-19 00:00:00,38.41,Resection of Intracranial Vessels with Replacement
+726430,32950757,Secondary,,38.91,,,2014-03-17 00:00:00,38.91,Arterial Catheterization
+726430,32950757,Secondary,,38.97,,,2014-03-21 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+726430,32950757,Secondary,,39.72,,,2014-03-18 00:00:00,39.72,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+726430,32950757,Primary,Y,431,,,2014-03-16 00:00:00,431,Intracerebral Hemorrhage
+726430,32950757,Primary,,432.9,,,2014-03-20 00:00:00,432.9,Unspecified Intracranial Hemorrhage
+726430,32950757,Primary,,432.9,,,2014-03-25 00:00:00,432.9,Unspecified Intracranial Hemorrhage
+726430,32950757,Primary,,438.11,,,2014-03-25 00:00:00,438.11,Aphasia as Late Effect of Cerebrovascular Disease
+726430,32950757,Secondary,E,438.11,,,2014-03-16 00:00:00,438.11,Aphasia as Late Effect of Cerebrovascular Disease
+726430,32950757,Secondary,N,486,,,2014-03-16 00:00:00,486,"Pneumonia, Organism Unspecified"
+726430,32950757,Secondary,N,518.4,,,2014-03-16 00:00:00,518.4,"Acute Edema of Lung, Unspecified"
+726430,32950757,Secondary,Y,784.3,,,2014-03-16 00:00:00,784.3,APHASIA
+726430,32950757,Secondary,,87.03,,,2014-03-16 00:00:00,87.03,Computerized Axial Tomography of Head
+726430,32950757,Secondary,,88.41,,,2014-03-16 00:00:00,88.41,Arteriography of Cerebral Arteries
+726430,32950757,Secondary,,96.04,,,2014-03-16 00:00:00,96.04,Insertion of Endotracheal Tube
+726430,32950757,Secondary,,96.72,,,2014-03-16 00:00:00,96.72,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+726430,32950757,Secondary,,99.10,,,2014-03-24 00:00:00,99.10,Injection or Infusion of Thrombolytic Agent
+726430,32950757,Secondary,E,V03.82,,,2014-03-16 00:00:00,V03.82,Need for Prophylactic Vaccination Against Streptococcus Pneumoniae [pneumococcus]
+726430,32950757,Secondary,E,V14.0,,,2014-03-16 00:00:00,V14.0,Personal History of Allergy to Penicillin
+717647,33443824,Secondary,,00.40,,,2014-12-08 00:00:00,00.40,Procedure on Single Vessel
+717647,33443824,Secondary,Y,332.0,,,2014-12-08 00:00:00,332.0,Paralysis Agitans
+717647,33443824,Primary,,39.74,,,2014-12-08 00:00:00,39.74,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+717647,33443824,Secondary,Y,401.9,,,2014-12-08 00:00:00,401.9,Unspecified Essential Hypertension
+717647,33443824,Secondary,Y,414.00,,,2014-12-08 00:00:00,414.00,"Coronary Atherosclerosis of Unspecified Type of Vessel, Native or Graft"
+717647,33443824,Primary,Y,433.01,,,2014-12-08 00:00:00,433.01,"Occlusion and Stenosis of Basilar Artery, with Cerebral Infarction"
+717647,33443824,Secondary,Y,447.70,,,2014-12-08 00:00:00,447.70,"Aortic Ectasia, Unspecified Site"
+717647,33443824,Secondary,Y,518.81,,,2014-12-08 00:00:00,518.81,Acute Respiratory Failure
+717647,33443824,Secondary,Y,599.71,,,2014-12-08 00:00:00,599.71,Gross Hematuria
+717647,33443824,Secondary,Y,600.01,,,2014-12-08 00:00:00,600.01,Hypertrophy (Benign) of Prostate with Urinary Obstruction and Other Lower Urinary Tract Symptoms (Luts)
+717647,33443824,Secondary,,87.03,,,2014-12-08 00:00:00,87.03,Computerized Axial Tomography of Head
+717647,33443824,Secondary,,88.41,,,2014-12-08 00:00:00,88.41,Arteriography of Cerebral Arteries
+717647,33443824,Secondary,,96.04,,,2014-12-08 00:00:00,96.04,Insertion of Endotracheal Tube
+717647,33443824,Secondary,E,V45.81,,,2014-12-08 00:00:00,V45.81,Postsurgical Aortocoronary Bypass Status
+717897,34253149,Secondary,Y,246.8,,,2014-01-05 00:00:00,246.8,Other Specified Disorders of Thyroid
+717897,34253149,Secondary,Y,250.00,,,2014-01-05 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+717897,34253149,Secondary,Y,263.9,,,2014-01-05 00:00:00,263.9,Unspecified Protein-Calorie Malnutrition
+717897,34253149,Secondary,Y,272.4,,,2014-01-05 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+717897,34253149,Secondary,N,285.1,,,2014-01-05 00:00:00,285.1,Acute Posthemorrhagic Anemia
+717897,34253149,Secondary,Y,294.20,,,2014-01-05 00:00:00,294.20,"Dementia, Unspecified, in Conditions Classified Elsewhere without Behavioral Disturbance"
+717897,34253149,Secondary,N,348.30,,,2014-01-05 00:00:00,348.30,"Encephalopathy, Unspecified"
+717897,34253149,Primary,,36.13,,,2014-01-08 00:00:00,36.13,(Aorto)coronary Bypass of Three Coronary Arteries
+717897,34253149,Secondary,,37.22,,,2014-01-05 00:00:00,37.22,Left Heart Cardiac Catheterization
+717897,34253149,Secondary,,37.61,,,2014-01-05 00:00:00,37.61,Implant of Pulsation Balloon
+717897,34253149,Secondary,,38.91,,,2014-01-09 00:00:00,38.91,Arterial Catheterization
+717897,34253149,Secondary,Y,403.90,,,2014-01-05 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+717897,34253149,Primary,Y,410.11,,,2014-01-05 00:00:00,410.11,"Acute Myocardial Infarction, of Other Anterior Wall, Initial Episode of Care"
+717897,34253149,Primary,,410.90,,,2014-01-06 00:00:00,410.90,Acute MI
+717897,34253149,Primary,,414.00,,,2014-01-06 00:00:00,414.00,3-vessel CAD
+717897,34253149,Secondary,Y,414.01,,,2014-01-05 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+717897,34253149,Primary,,427.31,,,2014-01-12 00:00:00,427.31,Atrial fibrillation with RVR
+717897,34253149,Secondary,N,427.31,,,2014-01-05 00:00:00,427.31,Atrial Fibrillation
+717897,34253149,Secondary,Y,428.0,,,2014-01-05 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+717897,34253149,Secondary,Y,428.21,,,2014-01-05 00:00:00,428.21,Acute Systolic Heart Failure
+717897,34253149,Secondary,Y,433.10,,,2014-01-05 00:00:00,433.10,"Occlusion and Stenosis of Carotid Artery, without Mention of Cerebral Infarction"
+717897,34253149,Secondary,Y,433.30,,,2014-01-05 00:00:00,433.30,"Occlusion and Stenosis of Multiple and Bilateral Precerebral Arteries, without Mention of Cerebral Infarction"
+717897,34253149,Secondary,Y,585.9,,,2014-01-05 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+717897,34253149,Secondary,Y,781.2,,,2014-01-05 00:00:00,781.2,Abnormality of Gait
+717897,34253149,Secondary,Y,785.51,,,2014-01-05 00:00:00,785.51,Cardiogenic Shock
+717897,34253149,Secondary,,88.56,,,2014-01-05 00:00:00,88.56,Coronary Arteriography Using Two Catheters
+717897,34253149,Secondary,,99.00,,,2014-01-08 00:00:00,99.00,Perioperative Autologous Transfusion of Whole Blood or Blood Components
+717897,34253149,Secondary,,99.04,,,2014-01-08 00:00:00,99.04,Transfusion of Packed Cells
+717897,34253149,Secondary,E,V15.82,,,2014-01-05 00:00:00,V15.82,Personal History of Tobacco Use
+717897,34253149,Secondary,N,V49.87,,,2014-01-05 00:00:00,V49.87,Physical Restraints Status
+717897,34253149,Secondary,E,V85.0,,,2014-01-05 00:00:00,V85.0,"Body Mass Index Less Than 19, Adult"
+294824,32897423,Primary,Y,070.44,,,2014-05-13 00:00:00,070.44,Chronic Hepatitis C with Hepatic Coma
+294824,32897423,Primary,,070.54,,,2014-05-21 00:00:00,070.54,Chronic Hepatitis C without Mention of Hepatic Coma
+294824,32897423,Secondary,Y,244.9,,,2014-05-13 00:00:00,244.9,Unspecified Hypothyroidism
+294824,32897423,Secondary,Y,255.41,,,2014-05-13 00:00:00,255.41,Glucocorticoid Deficiency
+294824,32897423,Secondary,N,273.8,,,2014-05-13 00:00:00,273.8,Other Disorders of Plasma Protein Metabolism
+294824,32897423,Secondary,N,275.3,,,2014-05-13 00:00:00,275.3,Disorders of Phosphorus Metabolism
+294824,32897423,Secondary,Y,276.1,,,2014-05-13 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+294824,32897423,Secondary,N,281.9,,,2014-05-13 00:00:00,281.9,Unspecified Deficiency Anemia
+294824,32897423,Secondary,Y,284.19,,,2014-05-13 00:00:00,284.19,Other Pancytopenia
+294824,32897423,Secondary,Y,286.7,,,2014-05-13 00:00:00,286.7,Acquired Coagulation Factor Deficiency
+294824,32897423,Secondary,,33.23,,,2014-05-25 00:00:00,33.23,Other Bronchoscopy
+294824,32897423,Secondary,Y,338.29,,,2014-05-13 00:00:00,338.29,Other Chronic Pain
+294824,32897423,Secondary,Y,356.9,,,2014-05-13 00:00:00,356.9,Unspecified Idiopathic Peripheral Neuropathy
+294824,32897423,Primary,,38.97,,,2014-05-18 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+294824,32897423,Secondary,N,434.91,,,2014-05-13 00:00:00,434.91,"Cerebral Artery Occlusion, Unspecified, with Cerebral Infarction"
+294824,32897423,Secondary,Y,456.1,,,2014-05-13 00:00:00,456.1,Esophageal Varices without Mention of Bleeding
+294824,32897423,Secondary,N,458.9,,,2014-05-13 00:00:00,458.9,"Hypotension, Unspecified"
+294824,32897423,Secondary,N,518.81,,,2014-05-13 00:00:00,518.81,Acute Respiratory Failure
+294824,32897423,Secondary,,54.91,,,2014-05-16 00:00:00,54.91,Percutaneous Abdominal Drainage
+294824,32897423,Secondary,,54.91,,,2014-06-01 00:00:00,54.91,Percutaneous Abdominal Drainage
+294824,32897423,Secondary,Y,562.10,,,2014-05-13 00:00:00,562.10,Diverticulosis of Colon (Without Mention of Hemorrhage)
+294824,32897423,Secondary,Y,564.00,,,2014-05-13 00:00:00,564.00,"Constipation, Unspecified"
+294824,32897423,Primary,,571.5,,,2014-05-21 00:00:00,571.5,Cirrhosis of Liver without Mention of Alcohol
+294824,32897423,Secondary,Y,571.5,,,2014-05-13 00:00:00,571.5,Cirrhosis of Liver without Mention of Alcohol
+294824,32897423,Secondary,Y,572.3,,,2014-05-13 00:00:00,572.3,Portal Hypertension
+294824,32897423,Secondary,N,584.9,,,2014-05-13 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+294824,32897423,Secondary,N,599.70,,,2014-05-13 00:00:00,599.70,"Hematuria, Unspecified"
+294824,32897423,Secondary,Y,707.14,,,2014-05-13 00:00:00,707.14,Ulcer of Heel and Midfoot
+294824,32897423,Secondary,Y,733.00,,,2014-05-13 00:00:00,733.00,"Osteoporosis, Unspecified"
+294824,32897423,Primary,,780.09,,,2014-05-25 00:00:00,780.09,Other Alteration of Consciousness
+294824,32897423,Primary,,780.97,,,2014-05-15 00:00:00,780.97,Altered Mental Status
+294824,32897423,Primary,,782.3,,,2014-05-21 00:00:00,782.3,EDEMA
+294824,32897423,Secondary,N,782.4,,,2014-05-13 00:00:00,782.4,"Jaundice, Unspecified, Not of Newborn"
+294824,32897423,Secondary,N,788.20,,,2014-05-13 00:00:00,788.20,"Retention of Urine, Unspecified"
+294824,32897423,Primary,,789.59,,,2014-05-21 00:00:00,789.59,Other Ascites
+294824,32897423,Secondary,Y,789.59,,,2014-05-13 00:00:00,789.59,Other Ascites
+294824,32897423,Secondary,,87.03,,,2014-05-13 00:00:00,87.03,Computerized Axial Tomography of Head
+294824,32897423,Secondary,,96.04,,,2014-05-25 00:00:00,96.04,Insertion of Endotracheal Tube
+294824,32897423,Secondary,,96.71,,,2014-05-25 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+294824,32897423,Secondary,,99.04,,,2014-05-23 00:00:00,99.04,Transfusion of Packed Cells
+294824,32897423,Secondary,,99.07,,,2014-05-16 00:00:00,99.07,Transfusion of Other Serum
+294824,32897423,Secondary,,99.10,,,2014-05-20 00:00:00,99.10,Injection or Infusion of Thrombolytic Agent
+294824,32897423,Secondary,E,V15.81,,,2014-05-13 00:00:00,V15.81,"Personal History of Noncompliance with Medical Treatment, Presenting Hazards to Health"
+294824,32897423,Secondary,E,V15.82,,,2014-05-13 00:00:00,V15.82,Personal History of Tobacco Use
+294824,32897423,Secondary,E,V58.65,,,2014-05-13 00:00:00,V58.65,Long-Term (Current) Use of Steroids
+715267,32968411,Secondary,Y,250.00,,,2014-07-06 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+715267,32968411,Secondary,Y,272.4,,,2014-07-06 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+715267,32968411,Secondary,Y,275.3,,,2014-07-06 00:00:00,275.3,Disorders of Phosphorus Metabolism
+715267,32968411,Secondary,Y,275.41,,,2014-07-06 00:00:00,275.41,HYPOCALCEMIA
+715267,32968411,Secondary,Y,276.1,,,2014-07-06 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+715267,32968411,Secondary,Y,276.69,,,2014-07-06 00:00:00,276.69,Other Fluid Overload
+715267,32968411,Secondary,Y,276.7,,,2014-07-06 00:00:00,276.7,HYPERPOTASSEMIA
+715267,32968411,Secondary,Y,285.21,,,2014-07-06 00:00:00,285.21,Anemia in Chronic Kidney Disease
+715267,32968411,Secondary,Y,311,,,2014-07-06 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+715267,32968411,Secondary,Y,327.23,,,2014-07-06 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+715267,32968411,Secondary,,38.97,,,2014-07-13 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+715267,32968411,Primary,,39.95,,,2014-07-07 00:00:00,39.95,Hemodialysis
+715267,32968411,Secondary,Y,403.91,,,2014-07-06 00:00:00,403.91,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage V or End Stage Renal Disease"
+715267,32968411,Secondary,Y,486,,,2014-07-06 00:00:00,486,"Pneumonia, Organism Unspecified"
+715267,32968411,Secondary,Y,496,,,2014-07-06 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+715267,32968411,Secondary,Y,514,,,2014-07-06 00:00:00,514,Pulmonary Congestion and Hypostasis
+715267,32968411,Secondary,Y,518.81,,,2014-07-06 00:00:00,518.81,Acute Respiratory Failure
+715267,32968411,Secondary,Y,530.81,,,2014-07-06 00:00:00,530.81,Esophageal Reflux
+715267,32968411,Secondary,Y,564.00,,,2014-07-06 00:00:00,564.00,"Constipation, Unspecified"
+715267,32968411,Secondary,Y,585.6,,,2014-07-06 00:00:00,585.6,End Stage Renal Disease
+715267,32968411,Secondary,Y,588.81,,,2014-07-06 00:00:00,588.81,Secondary Hyperparathyroidism (Of Renal Origin)
+715267,32968411,Secondary,Y,793.11,,,2014-07-06 00:00:00,793.11,Solitary Pulmonary Nodule
+715267,32968411,Primary,Y,996.84,,,2014-07-06 00:00:00,996.84,Complications of Transplanted Lung
+715267,32968411,Secondary,Y,E878.0,,,2014-07-06 00:00:00,E878.0,"Surgical Operation with Transplant of Whole Organ Causing Abnormal Patient Reaction, or Later Complication, without Ment"
+715267,32968411,Secondary,E,V15.07,,,2014-07-06 00:00:00,V15.07,Allergy to Latex
+715267,32968411,Secondary,E,V42.6,,,2014-07-06 00:00:00,V42.6,Lung Replaced by Transplant
+715267,32968411,Secondary,E,V45.11,,,2014-07-06 00:00:00,V45.11,Renal Dialysis Status
+715267,32968411,Secondary,E,V49.83,,,2014-07-06 00:00:00,V49.83,Awaiting Organ Transplant Status
+715267,32968411,Secondary,E,V58.67,,,2014-07-06 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+709118,34366236,Secondary,Y,038.9,,,2014-01-11 00:00:00,038.9,Unspecified Septicemia
+709118,34366236,Primary,,041.04,,,2014-01-12 00:00:00,041.04,VRE (vancomycin-resistant enterococci) infection
+709118,34366236,Secondary,Y,276.1,,,2014-01-11 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+709118,34366236,Secondary,Y,276.2,,,2014-01-11 00:00:00,276.2,ACIDOSIS
+709118,34366236,Secondary,N,276.69,,,2014-01-11 00:00:00,276.69,Other Fluid Overload
+709118,34366236,Secondary,N,276.8,,,2014-01-11 00:00:00,276.8,HYPOPOTASSEMIA
+709118,34366236,Primary,,284.19,,,2014-01-12 00:00:00,284.19,Pancytopenia
+709118,34366236,Secondary,Y,284.19,,,2014-01-11 00:00:00,284.19,Other Pancytopenia
+709118,34366236,Secondary,Y,285.1,,,2014-01-11 00:00:00,285.1,Acute Posthemorrhagic Anemia
+709118,34366236,Secondary,Y,305.00,,,2014-01-11 00:00:00,305.00,"Alcohol Abuse, Unspecified Drinking Behavior"
+709118,34366236,Primary,,38.97,,,2014-01-13 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+709118,34366236,Secondary,,38.97,,,2014-01-24 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+709118,34366236,Secondary,,39.95,,,2014-01-16 00:00:00,39.95,Hemodialysis
+709118,34366236,Secondary,Y,403.91,,,2014-01-11 00:00:00,403.91,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage V or End Stage Renal Disease"
+709118,34366236,Primary,,414.00,,,2014-01-19 00:00:00,414.00,"[ASHD] CORONARY ATHEROSCLEROSIS OF UNSPECIFIED TYPE OF VESSEL, NATIVE OR GRAFT"
+709118,34366236,Secondary,Y,414.01,,,2014-01-11 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+709118,34366236,Secondary,,42.33,,,2014-01-12 00:00:00,42.33,Endoscopic Excision or Destruction of Lesion or Tissue of Esophagus
+709118,34366236,Secondary,Y,456.20,,,2014-01-11 00:00:00,456.20,"Esophageal Varices in Diseases Classified Elsewhere, with Bleeding"
+709118,34366236,Secondary,N,458.9,,,2014-01-11 00:00:00,458.9,"Hypotension, Unspecified"
+709118,34366236,Secondary,N,511.9,,,2014-01-11 00:00:00,511.9,Unspecified Pleural Effusion
+709118,34366236,Secondary,N,518.82,,,2014-01-11 00:00:00,518.82,"Other Pulmonary Insufficiency, Not Elsewhere Classified"
+709118,34366236,Secondary,Y,537.89,,,2014-01-11 00:00:00,537.89,Other Specified Disorders of Stomach and Duodenum
+709118,34366236,Secondary,,54.91,,,2014-01-21 00:00:00,54.91,Percutaneous Abdominal Drainage
+709118,34366236,Secondary,,54.91,,,2014-01-12 00:00:00,54.91,Percutaneous Abdominal Drainage
+709118,34366236,Primary,,567.23,,,2014-01-12 00:00:00,567.23,Spontaneous Bacterial Peritonitis
+709118,34366236,Secondary,Y,567.23,,,2014-01-11 00:00:00,567.23,Spontaneous Bacterial Peritonitis
+709118,34366236,Primary,,571.2,,,2014-01-12 00:00:00,571.2,Alcoholic cirrhosis
+709118,34366236,Primary,Y,571.2,,,2014-01-11 00:00:00,571.2,Alcoholic Cirrhosis of Liver
+709118,34366236,Primary,,571.5,,,2014-01-19 00:00:00,571.5,Cirrhosis of Liver without Mention of Alcohol
+709118,34366236,Secondary,Y,572.3,,,2014-01-11 00:00:00,572.3,Portal Hypertension
+709118,34366236,Secondary,Y,572.4,,,2014-01-11 00:00:00,572.4,Hepatorenal Syndrome
+709118,34366236,Primary,,578.9,,,2014-01-27 00:00:00,578.9,Acute GI bleeding
+709118,34366236,Secondary,Y,584.5,,,2014-01-11 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+709118,34366236,Primary,,585.6,,,2014-01-19 00:00:00,585.6,End Stage Renal Disease
+709118,34366236,Secondary,Y,585.6,,,2014-01-11 00:00:00,585.6,End Stage Renal Disease
+709118,34366236,Primary,,747.81,,,2014-01-19 00:00:00,747.81,"Anomalies of Cerebrovascular System, Congenital"
+709118,34366236,Primary,,780.97,,,2014-01-19 00:00:00,780.97,Altered Mental Status
+709118,34366236,Primary,,789.59,,,2014-01-12 00:00:00,789.59,Other Ascites
+709118,34366236,Secondary,Y,789.59,,,2014-01-11 00:00:00,789.59,Other Ascites
+709118,34366236,Secondary,,96.04,,,2014-01-12 00:00:00,96.04,Insertion of Endotracheal Tube
+709118,34366236,Secondary,,96.71,,,2014-01-12 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+709118,34366236,Secondary,,99.04,,,2014-01-11 00:00:00,99.04,Transfusion of Packed Cells
+709118,34366236,Secondary,,99.05,,,2014-01-11 00:00:00,99.05,Transfusion of Platelets
+709118,34366236,Secondary,,99.07,,,2014-01-11 00:00:00,99.07,Transfusion of Other Serum
+709118,34366236,Secondary,Y,995.92,,,2014-01-11 00:00:00,995.92,Severe Sepsis
+709118,34366236,Secondary,Y,V09.80,,,2014-01-11 00:00:00,V09.80,"Infection with Microorganisms Resistant to Other Specified Drugs, without Mention of Resistance to Multiple Drugs"
+709118,34366236,Secondary,E,V15.82,,,2014-01-11 00:00:00,V15.82,Personal History of Tobacco Use
+709118,34366236,Secondary,E,V45.11,,,2014-01-11 00:00:00,V45.11,Renal Dialysis Status
+709118,34366236,Secondary,E,V45.82,,,2014-01-11 00:00:00,V45.82,"Percutaneous Transluminal Coronary Angioplasty, Postsurgical Status"
+710191,34409276,Secondary,,34.04,,,2014-06-07 00:00:00,34.04,Insertion of Intercostal Catheter for Drainage
+710191,34409276,Secondary,Y,433.20,,,2014-06-07 00:00:00,433.20,"Occlusion and Stenosis of Vertebral Artery, without Mention of Cerebral Infarction"
+710191,34409276,Secondary,Y,518.51,,,2014-06-07 00:00:00,518.51,Acute Respiratory Failure Following Trauma and Surgery
+710191,34409276,Secondary,Y,805.01,,,2014-06-07 00:00:00,805.01,"Closed Fracture of First Cervical Vertebra, without Mention of Spinal Cord Injury"
+710191,34409276,Secondary,Y,805.06,,,2014-06-07 00:00:00,805.06,"Closed Fracture of Sixth Cervical Vertebra, without Mention of Spinal Cord Injury"
+710191,34409276,Primary,Y,805.2,,,2014-06-07 00:00:00,805.2,Closed Fracture of Dorsal [thoracic] Vertebra without Mention of Spinal Cord Injury
+710191,34409276,Secondary,Y,807.02,,,2014-06-07 00:00:00,807.02,Closed Fracture of Two Ribs
+710191,34409276,Primary,,81.05,,,2014-06-07 00:00:00,81.05,"Dorsal and Dorsolumbar Fusion of the Posterior Column, Posterior Technique"
+710191,34409276,Secondary,,81.63,,,2014-06-07 00:00:00,81.63,Fusion or Refusion of 4- 8 Vertebrae
+710191,34409276,Secondary,,84.51,,,2014-06-07 00:00:00,84.51,Insertion of Interbody Spinal Fusion Device
+710191,34409276,Secondary,Y,852.00,,,2014-06-07 00:00:00,852.00,"Subarachnoid Hemorrhage Following Injury, without Mention of Open Intracranial Wound, with State of Consciousness Unspec"
+710191,34409276,Secondary,Y,852.40,,,2014-06-07 00:00:00,852.40,"Extradural Hemorrhage Following Injury, without Mention of Open Intracranial Wound, with State of Consciousness Unspecif"
+710191,34409276,Secondary,Y,860.0,,,2014-06-07 00:00:00,860.0,Traumatic Pneumothorax without Mention of Open Wound Into Thorax
+710191,34409276,Secondary,Y,868.04,,,2014-06-07 00:00:00,868.04,Injury to Retroperitoneum without Mention of Open Wound Into Cavity
+710191,34409276,Secondary,,87.03,,,2014-06-07 00:00:00,87.03,Computerized Axial Tomography of Head
+710191,34409276,Secondary,,88.41,,,2014-06-09 00:00:00,88.41,Arteriography of Cerebral Arteries
+710191,34409276,Secondary,,96.04,,,2014-06-07 00:00:00,96.04,Insertion of Endotracheal Tube
+710191,34409276,Secondary,,96.71,,,2014-06-07 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+710191,34409276,Secondary,E,E812.0,,,2014-06-07 00:00:00,E812.0,Other Motor Vehicle Traffic Accident Involving Collision with Motor Vehicle Injuring Driver of Motor Vehicle Other Than
+710191,34409276,Secondary,E,V14.0,,,2014-06-07 00:00:00,V14.0,Personal History of Allergy to Penicillin
+717947,34233328,Secondary,Y,300.00,,,2014-10-04 00:00:00,300.00,"Anxiety State, Unspecified"
+717947,34233328,Secondary,,33.23,,,2014-10-13 00:00:00,33.23,Other Bronchoscopy
+717947,34233328,Secondary,,33.23,,,2014-10-22 00:00:00,33.23,Other Bronchoscopy
+717947,34233328,Primary,,33.24,,,2014-10-16 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+717947,34233328,Secondary,,33.24,,,2014-10-19 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+717947,34233328,Secondary,,33.24,,,2014-10-20 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+717947,34233328,Secondary,Y,333.5,,,2014-10-04 00:00:00,333.5,Other Choreas
+717947,34233328,Primary,Y,333.90,,,2014-10-04 00:00:00,333.90,Unspecified Extrapyramidal Disease and Abnormal Movement Disorder
+717947,34233328,Secondary,Y,342.90,,,2014-10-04 00:00:00,342.90,"Hemiplegia, Unspecified, Affecting Unspecified Side"
+717947,34233328,Secondary,,38.91,,,2014-10-13 00:00:00,38.91,Arterial Catheterization
+717947,34233328,Secondary,,38.91,,,2014-10-15 00:00:00,38.91,Arterial Catheterization
+717947,34233328,Secondary,,38.91,,,2014-10-22 00:00:00,38.91,Arterial Catheterization
+717947,34233328,Secondary,,38.97,,,2014-10-13 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+717947,34233328,Secondary,,38.97,,,2014-10-19 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+717947,34233328,Secondary,N,380.10,,,2014-10-04 00:00:00,380.10,"Infective Otitis Externa, Unspecified"
+717947,34233328,Secondary,Y,401.9,,,2014-10-04 00:00:00,401.9,Unspecified Essential Hypertension
+717947,34233328,Secondary,Y,427.31,,,2014-10-04 00:00:00,427.31,Atrial Fibrillation
+717947,34233328,Secondary,N,427.41,,,2014-10-04 00:00:00,427.41,Ventricular Fibrillation
+717947,34233328,Secondary,N,427.5,,,2014-10-04 00:00:00,427.5,Cardiac Arrest
+717947,34233328,Secondary,Y,429.9,,,2014-10-04 00:00:00,429.9,"Heart Disease, Unspecified"
+717947,34233328,Secondary,Y,433.10,,,2014-10-04 00:00:00,433.10,"Occlusion and Stenosis of Carotid Artery, without Mention of Cerebral Infarction"
+717947,34233328,Secondary,N,518.81,,,2014-10-04 00:00:00,518.81,Acute Respiratory Failure
+717947,34233328,Secondary,N,519.19,,,2014-10-04 00:00:00,519.19,Other Diseases of Trachea and Bronchus
+717947,34233328,Secondary,N,570,,,2014-10-04 00:00:00,570,Acute and Subacute Necrosis of Liver
+717947,34233328,Secondary,N,584.5,,,2014-10-04 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+717947,34233328,Secondary,Y,593.2,,,2014-10-04 00:00:00,593.2,"Cyst of Kidney, Acquired"
+717947,34233328,Secondary,Y,599.0,,,2014-10-04 00:00:00,599.0,"Urinary Tract Infection, Site Not Specified"
+717947,34233328,Secondary,N,682.0,,,2014-10-04 00:00:00,682.0,Cellulitis and Abscess of Face
+717947,34233328,Primary,,780.09,,,2014-10-14 00:00:00,780.09,Other Alteration of Consciousness
+717947,34233328,Secondary,N,785.52,,,2014-10-04 00:00:00,785.52,Septic Shock
+717947,34233328,Secondary,,87.03,,,2014-10-13 00:00:00,87.03,Computerized Axial Tomography of Head
+717947,34233328,Secondary,,88.41,,,2014-10-04 00:00:00,88.41,Arteriography of Cerebral Arteries
+717947,34233328,Secondary,,96.04,,,2014-10-13 00:00:00,96.04,Insertion of Endotracheal Tube
+717947,34233328,Secondary,,96.56,,,2014-10-22 00:00:00,96.56,Other Lavage of Bronchus and Trachea
+717947,34233328,Secondary,,96.72,,,2014-10-13 00:00:00,96.72,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+717947,34233328,Secondary,,99.04,,,2014-10-16 00:00:00,99.04,Transfusion of Packed Cells
+717947,34233328,Secondary,,99.07,,,2014-10-14 00:00:00,99.07,Transfusion of Other Serum
+717947,34233328,Secondary,N,995.92,,,2014-10-04 00:00:00,995.92,Severe Sepsis
+717947,34233328,Secondary,E,V12.54,,,2014-10-04 00:00:00,V12.54,"Personal History of Transient Ischemic Attack (TIA), and Cerebral Infarction without Residual Deficits"
+717947,34233328,Secondary,E,V15.82,,,2014-10-04 00:00:00,V15.82,Personal History of Tobacco Use
+717947,34233328,Secondary,E,V17.3,,,2014-10-04 00:00:00,V17.3,Family History of Ischemic Heart Disease
+717947,34233328,Secondary,,03.31,,,2014-10-07 00:00:00,03.31,Spinal Tap
+717947,34233328,Secondary,,03.31,,,2014-10-08 00:00:00,03.31,Spinal Tap
+717947,34233328,Secondary,N,038.11,,,2014-10-04 00:00:00,038.11,Methicillin Susceptible Staphylococcus Aureus Septicemia
+717947,34233328,Secondary,Y,244.9,,,2014-10-04 00:00:00,244.9,Unspecified Hypothyroidism
+717947,34233328,Secondary,Y,250.00,,,2014-10-04 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+717947,34233328,Secondary,N,263.9,,,2014-10-04 00:00:00,263.9,Unspecified Protein-Calorie Malnutrition
+717947,34233328,Secondary,Y,272.4,,,2014-10-04 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+717947,34233328,Secondary,N,276.0,,,2014-10-04 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+717947,34233328,Secondary,N,276.2,,,2014-10-04 00:00:00,276.2,ACIDOSIS
+717947,34233328,Secondary,N,276.7,,,2014-10-04 00:00:00,276.7,HYPERPOTASSEMIA
+717947,34233328,Secondary,N,276.8,,,2014-10-04 00:00:00,276.8,HYPOPOTASSEMIA
+717947,34233328,Secondary,N,287.5,,,2014-10-04 00:00:00,287.5,"Thrombocytopenia, Unspecified"
+717947,34233328,Secondary,Y,289.81,,,2014-10-04 00:00:00,289.81,Primary Hypercoagulable State
+719005,33615400,Secondary,Y,250.70,,,2014-07-31 00:00:00,250.70,"Diabetes Mellitus with Peripheral  Circulatory Disorders, Type II or Unspecified Type, Not Stated as Uncontrolled"
+719005,33615400,Secondary,Y,276.2,,,2014-07-31 00:00:00,276.2,ACIDOSIS
+719005,33615400,Secondary,Y,278.01,,,2014-07-31 00:00:00,278.01,Morbid Obesity
+719005,33615400,Secondary,Y,278.03,,,2014-07-31 00:00:00,278.03,Obesity Hypoventilation Syndrome
+719005,33615400,Secondary,N,293.0,,,2014-07-31 00:00:00,293.0,Delirium Due to Conditions Classified Elsewhere
+719005,33615400,Secondary,Y,327.23,,,2014-07-31 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+719005,33615400,Secondary,Y,348.1,,,2014-07-31 00:00:00,348.1,Anoxic Brain Damage
+719005,33615400,Secondary,Y,348.30,,,2014-07-31 00:00:00,348.30,"Encephalopathy, Unspecified"
+719005,33615400,Secondary,,37.27,,,2014-08-13 00:00:00,37.27,Cardiac Mapping
+719005,33615400,Primary,,37.34,,,2014-08-13 00:00:00,37.34,"Excision or Destruction of Other Lesion or Tissue of Heart, Endovascular Approach"
+719005,33615400,Secondary,,37.70,,,2014-08-13 00:00:00,37.70,"Initial Insertion of Pacemaker Lead [electrode], Not Otherwise Specified"
+719005,33615400,Secondary,,37.82,,,2014-08-13 00:00:00,37.82,"Initial Insertion of Single-Chamber Device, Rate Responsive"
+719005,33615400,Secondary,,38.97,,,2014-07-31 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+719005,33615400,Secondary,Y,414.01,,,2014-07-31 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+719005,33615400,Secondary,N,423.9,,,2014-07-31 00:00:00,423.9,Unspecified Disease of Pericardium
+719005,33615400,Secondary,Y,427.31,,,2014-07-31 00:00:00,427.31,Atrial Fibrillation
+719005,33615400,Secondary,Y,428.0,,,2014-07-31 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+719005,33615400,Secondary,Y,443.81,,,2014-07-31 00:00:00,443.81,Peripheral Angiopathy in Diseases Classified Elsewhere
+719005,33615400,Secondary,Y,443.9,,,2014-07-31 00:00:00,443.9,"Peripheral Vascular Disease, Unspecified"
+719005,33615400,Secondary,N,458.29,,,2014-07-31 00:00:00,458.29,Other Iatrogenic Hypotension
+719005,33615400,Secondary,Y,491.21,,,2014-07-31 00:00:00,491.21,Obstructive Chronic Bronchitis with (Acute) Exacerbation
+719005,33615400,Primary,Y,518.84,,,2014-07-31 00:00:00,518.84,Acute and Chronic Respiratory Failure
+719005,33615400,Secondary,N,584.9,,,2014-07-31 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+719005,33615400,Secondary,Y,707.10,,,2014-07-31 00:00:00,707.10,"Ulcer of Lower Limb, Unspecified"
+719005,33615400,Secondary,Y,785.50,,,2014-07-31 00:00:00,785.50,"Shock, Unspecified"
+719005,33615400,Secondary,,96.04,,,2014-07-31 00:00:00,96.04,Insertion of Endotracheal Tube
+719005,33615400,Secondary,,96.71,,,2014-07-31 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+719005,33615400,Secondary,E,V15.82,,,2014-07-31 00:00:00,V15.82,Personal History of Tobacco Use
+719005,33615400,Secondary,E,V46.2,,,2014-07-31 00:00:00,V46.2,"Other Dependence on Machines, Supplemental Oxygen"
+719005,33615400,Secondary,E,V85.41,,,2014-07-31 00:00:00,V85.41,"Body Mass Index 40.0-44.9, Adult"
+318333,33769239,Secondary,Y,070.54,,,2014-11-14 00:00:00,070.54,Chronic Hepatitis C without Mention of Hepatic Coma
+318333,33769239,Secondary,Y,250.00,,,2014-11-14 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+318333,33769239,Secondary,Y,272.0,,,2014-11-14 00:00:00,272.0,Pure Hypercholesterolemia
+318333,33769239,Secondary,N,275.2,,,2014-11-14 00:00:00,275.2,Disorders of Magnesium Metabolism
+318333,33769239,Secondary,Y,276.8,,,2014-11-14 00:00:00,276.8,HYPOPOTASSEMIA
+318333,33769239,Secondary,Y,296.80,,,2014-11-14 00:00:00,296.80,"Bipolar Disorder, Unspecified"
+318333,33769239,Secondary,Y,305.1,,,2014-11-14 00:00:00,305.1,Tobacco Use Disorder
+318333,33769239,Secondary,Y,311,,,2014-11-14 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+318333,33769239,Primary,,38.97,,,2014-11-17 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+318333,33769239,Secondary,N,428.0,,,2014-11-14 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+318333,33769239,Secondary,Y,458.9,,,2014-11-14 00:00:00,458.9,"Hypotension, Unspecified"
+318333,33769239,Secondary,Y,496,,,2014-11-14 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+318333,33769239,Secondary,Y,564.1,,,2014-11-14 00:00:00,564.1,Irritable Bowel Syndrome
+318333,33769239,Secondary,Y,584.9,,,2014-11-14 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+318333,33769239,Primary,Y,682.5,,,2014-11-14 00:00:00,682.5,Cellulitis and Abscess of Buttock
+318333,33769239,Secondary,Y,780.97,,,2014-11-14 00:00:00,780.97,Altered Mental Status
+318333,33769239,Secondary,N,788.20,,,2014-11-14 00:00:00,788.20,"Retention of Urine, Unspecified"
+318333,33769239,Secondary,N,799.02,,,2014-11-14 00:00:00,799.02,Hypoxemia
+720300,33528918,Secondary,Y,272.4,,,2014-10-02 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+720300,33528918,Secondary,N,285.9,,,2014-10-02 00:00:00,285.9,"Anemia, Unspecified"
+720300,33528918,Secondary,,34.99,,,2014-10-02 00:00:00,34.99,Other Operations on Thorax
+720300,33528918,Primary,,35.21,,,2014-10-02 00:00:00,35.21,Open and Other Replacement of Aortic Valve with Tissue Graft
+720300,33528918,Secondary,,36.11,,,2014-10-02 00:00:00,36.11,(Aorto)coronary Bypass of One Coronary Artery
+720300,33528918,Secondary,Y,389.9,,,2014-10-02 00:00:00,389.9,Unspecified Hearing Loss
+720300,33528918,Secondary,,39.61,,,2014-10-02 00:00:00,39.61,Extracorporeal Circulation Auxiliary to Open Heart Surgery
+720300,33528918,Secondary,Y,401.9,,,2014-10-02 00:00:00,401.9,Unspecified Essential Hypertension
+720300,33528918,Secondary,E,412,,,2014-10-02 00:00:00,412,Old Myocardial Infarction
+720300,33528918,Secondary,Y,414.01,,,2014-10-02 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+720300,33528918,Secondary,Y,414.02,,,2014-10-02 00:00:00,414.02,Coronary Atherosclerosis of Autologous Vein Bypass Graft
+720300,33528918,Secondary,Y,519.3,,,2014-10-02 00:00:00,519.3,"Other Diseases of Mediastinum, Not Elsewhere Classified"
+720300,33528918,Secondary,,88.72,,,2014-10-02 00:00:00,88.72,Diagnostic Ultrasound of Heart
+720300,33528918,Primary,Y,996.71,,,2014-10-02 00:00:00,996.71,Other Complications Due to Heart Valve Prosthesis
+720300,33528918,Secondary,Y,E878.1,,,2014-10-02 00:00:00,E878.1,"Surgical Operation with Implant of Artificial Internal Device Causing Abnormal Patient Reaction, or Later Complication,"
+720300,33528918,Secondary,E,V10.46,,,2014-10-02 00:00:00,V10.46,Personal History of Malignant Neoplasm of Prostate
+720300,33528918,Secondary,E,V10.83,,,2014-10-02 00:00:00,V10.83,Personal History of Other Malignant Neoplasm of Skin
+720300,33528918,Secondary,E,V12.72,,,2014-10-02 00:00:00,V12.72,Personal History of Colonic Polyps
+720300,33528918,Secondary,E,V15.82,,,2014-10-02 00:00:00,V15.82,Personal History of Tobacco Use
+720300,33528918,Secondary,E,V58.66,,,2014-10-02 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+729123,32634406,Secondary,Y,250.00,,,2014-12-01 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+729123,32634406,Secondary,Y,272.4,,,2014-12-01 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+729123,32634406,Secondary,Y,276.1,,,2014-12-01 00:00:00,276.1,Hyposmolality and/or Hyponatremia
+729123,32634406,Secondary,Y,278.00,,,2014-12-01 00:00:00,278.00,"Obesity, Unspecified"
+729123,32634406,Secondary,Y,305.1,,,2014-12-01 00:00:00,305.1,Tobacco Use Disorder
+729123,32634406,Secondary,Y,327.23,,,2014-12-01 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+729123,32634406,Primary,,38.91,,,2014-12-01 00:00:00,38.91,Arterial Catheterization
+729123,32634406,Secondary,,38.97,,,2014-12-02 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+729123,32634406,Secondary,Y,416.8,,,2014-12-01 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+729123,32634406,Secondary,Y,428.0,,,2014-12-01 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+729123,32634406,Secondary,Y,482.41,,,2014-12-01 00:00:00,482.41,Methicillin Susceptible Pneumonia Due to Staphylococcus Aureus
+729123,32634406,Primary,Y,487.0,,,2014-12-01 00:00:00,487.0,Influenza with Pneumonia
+729123,32634406,Secondary,Y,493.22,,,2014-12-01 00:00:00,493.22,"Chronic Obstructive Asthma, with (Acute) Exacerbation"
+729123,32634406,Secondary,Y,518.84,,,2014-12-01 00:00:00,518.84,Acute and Chronic Respiratory Failure
+729123,32634406,Secondary,Y,599.0,,,2014-12-01 00:00:00,599.0,"Urinary Tract Infection, Site Not Specified"
+729123,32634406,Secondary,Y,785.0,,,2014-12-01 00:00:00,785.0,"Tachycardia, Unspecified"
+729123,32634406,Secondary,,88.72,,,2014-12-01 00:00:00,88.72,Diagnostic Ultrasound of Heart
+729123,32634406,Secondary,,99.52,,,2014-12-03 00:00:00,99.52,Prophylactic Vaccination Against Influenza
+729123,32634406,Secondary,,99.55,,,2014-12-05 00:00:00,99.55,Prophylactic Administration of Vaccine Against Other Diseases
+729123,32634406,Secondary,E,V06.6,,,2014-12-01 00:00:00,V06.6,Need for Prophylactic Vaccination and Inoculation Against Streptococcus Pneumoniae [pneumococcus] and Influenza
+729123,32634406,Secondary,E,V07.0,,,2014-12-01 00:00:00,V07.0,Need for Isolation
+729123,32634406,Secondary,E,V15.04,,,2014-12-01 00:00:00,V15.04,Allergy to Seafood
+729123,32634406,Secondary,E,V15.51,,,2014-12-01 00:00:00,V15.51,Personal History of Traumatic Fracture
+729123,32634406,Secondary,E,V45.51,,,2014-12-01 00:00:00,V45.51,Presence of Intrauterine Contraceptive Device
+729123,32634406,Secondary,E,V45.89,,,2014-12-01 00:00:00,V45.89,Other Postsurgical Status
+729123,32634406,Secondary,E,V58.66,,,2014-12-01 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+729123,32634406,Secondary,E,V58.69,,,2014-12-01 00:00:00,V58.69,Long-Term (Current) Use of Other Medications
+729123,32634406,Secondary,E,V60.2,,,2014-12-01 00:00:00,V60.2,Inadequate Material Resources
+729123,32634406,Secondary,E,V60.3,,,2014-12-01 00:00:00,V60.3,Person Living Alone
+729123,32634406,Secondary,E,V85.43,,,2014-12-01 00:00:00,V85.43,"Body Mass Index 50.0-59.9, Adult"
+731808,34279786,Secondary,Y,272.4,,,2014-04-08 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+731808,34279786,Secondary,Y,397.0,,,2014-04-08 00:00:00,397.0,Diseases of Tricuspid Valve
+731808,34279786,Secondary,Y,416.8,,,2014-04-08 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+731808,34279786,Secondary,Y,424.0,,,2014-04-08 00:00:00,424.0,Mitral Valve Disorders
+731808,34279786,Secondary,Y,425.4,,,2014-04-08 00:00:00,425.4,Other Primary Cardiomyopathies
+731808,34279786,Secondary,N,427.1,,,2014-04-08 00:00:00,427.1,Paroxysmal Ventricular Tachycardia
+731808,34279786,Secondary,Y,428.0,,,2014-04-08 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+731808,34279786,Primary,,428.23,,,2014-04-08 00:00:00,428.23,Acute on Chronic Systolic Heart Failure
+731808,34279786,Primary,Y,428.43,,,2014-04-08 00:00:00,428.43,Acute on Chronic Combined Systolic and Diastolic Heart Failure
+731808,34279786,Primary,,428.9,,,2014-04-08 00:00:00,428.9,"Heart Failure, Unspecified"
+731808,34279786,Secondary,N,584.9,,,2014-04-08 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+731808,34279786,Secondary,Y,585.9,,,2014-04-08 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+731808,34279786,Secondary,Y,785.2,,,2014-04-08 00:00:00,785.2,Undiagnosed Cardiac Murmurs
+731808,34279786,Secondary,N,799.02,,,2014-04-08 00:00:00,799.02,Hypoxemia
+731808,34279786,Primary,,89.49,,,2014-04-09 00:00:00,89.49,Automatic Implantable Cardioverter/Defibrillator (Aicd) Check
+731808,34279786,Secondary,,93.90,,,2014-04-10 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+731808,34279786,Secondary,E,V45.02,,,2014-04-08 00:00:00,V45.02,Automatic Implantable Cardiac Defibrillator in Situ
+731808,34279786,Secondary,E,V45.81,,,2014-04-08 00:00:00,V45.81,Postsurgical Aortocoronary Bypass Status
+723911,34204793,Primary,Y,150.5,,,2014-06-30 00:00:00,150.5,Malignant Neoplasm of Lower Third of Esophagus
+723911,34204793,Secondary,Y,196.1,,,2014-06-30 00:00:00,196.1,Secondary and Unspecified Malignant Neoplasm of Intrathoracic Lymph Nodes
+723911,34204793,Secondary,N,285.1,,,2014-06-30 00:00:00,285.1,Acute Posthemorrhagic Anemia
+723911,34204793,Secondary,Y,305.1,,,2014-06-30 00:00:00,305.1,Tobacco Use Disorder
+723911,34204793,Secondary,,33.22,,,2014-06-30 00:00:00,33.22,Fiber-Optic Bronchoscopy
+723911,34204793,Secondary,,33.24,,,2014-07-01 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+723911,34204793,Secondary,,34.06,,,2014-06-30 00:00:00,34.06,Thoracoscopic Drainage of Pleural Cavity
+723911,34204793,Secondary,,34.59,,,2014-06-30 00:00:00,34.59,Other Excision of Pleura
+723911,34204793,Secondary,,42.52,,,2014-06-30 00:00:00,42.52,Intrathoracic Esophagogastrostomy
+723911,34204793,Secondary,,42.81,,,2014-06-30 00:00:00,42.81,Insertion of Permanent Tube Into Esophagus
+723911,34204793,Secondary,,43.99,,,2014-06-30 00:00:00,43.99,Other Total Gastrectomy
+723911,34204793,Secondary,,44.13,,,2014-06-30 00:00:00,44.13,Other Gastroscopy
+723911,34204793,Primary,,44.29,,,2014-06-30 00:00:00,44.29,Other Pyloroplasty
+723911,34204793,Secondary,,46.32,,,2014-06-30 00:00:00,46.32,Percutaneous (Endoscopic) Jejunostomy [PEJ]
+723911,34204793,Secondary,Y,511.0,,,2014-06-30 00:00:00,511.0,Pleurisy without Mention of Effusion or Current Tuberculosis
+723911,34204793,Secondary,N,518.0,,,2014-06-30 00:00:00,518.0,Pulmonary Collapse
+723911,34204793,Secondary,Y,530.81,,,2014-06-30 00:00:00,530.81,Esophageal Reflux
+723911,34204793,Secondary,Y,535.10,,,2014-06-30 00:00:00,535.10,"Atrophic Gastritis, without Mention of Hemorrhage"
+723911,34204793,Secondary,Y,568.0,,,2014-06-30 00:00:00,568.0,Peritoneal Adhesions (Postoperative) (Postinfection)
+723911,34204793,Secondary,Y,783.21,,,2014-06-30 00:00:00,783.21,Loss of Weight
+723911,34204793,Secondary,Y,783.22,,,2014-06-30 00:00:00,783.22,Underweight
+723911,34204793,Secondary,Y,787.20,,,2014-06-30 00:00:00,787.20,"Dysphagia, Unspecified"
+723911,34204793,Secondary,N,787.91,,,2014-06-30 00:00:00,787.91,Diarrhea
+723911,34204793,Secondary,,86.74,,,2014-06-30 00:00:00,86.74,Attachment of Pedicle or Flap Graft to Other Sites
+723911,34204793,Secondary,,96.6,,,2014-06-30 00:00:00,96.6,Enteral Infusion of Concentrated Nutritional Substances
+723911,34204793,Secondary,,99.04,,,2014-06-30 00:00:00,99.04,Transfusion of Packed Cells
+723911,34204793,Secondary,E,V85.0,,,2014-06-30 00:00:00,V85.0,"Body Mass Index Less Than 19, Adult"
+723911,34204793,Secondary,E,V87.41,,,2014-06-30 00:00:00,V87.41,Personal History of Antineoplastic Chemotherapy
+728238,32718189,Secondary,Y,305.60,,,2014-09-16 00:00:00,305.60,"Cocaine Abuse, Unspecified Use"
+728238,32718189,Secondary,Y,349.82,,,2014-09-16 00:00:00,349.82,Toxic Encephalopathy
+728238,32718189,Secondary,,38.97,,,2014-09-16 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+728238,32718189,Secondary,Y,518.81,,,2014-09-16 00:00:00,518.81,Acute Respiratory Failure
+728238,32718189,Secondary,,96.04,,,2014-09-16 00:00:00,96.04,Insertion of Endotracheal Tube
+728238,32718189,Primary,,96.71,,,2014-09-16 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+728238,32718189,Primary,Y,963.0,,,2014-09-16 00:00:00,963.0,Poisoning by Antiallergic and Antiemetic Drugs
+728238,32718189,Secondary,Y,965.00,,,2014-09-16 00:00:00,965.00,"Poisoning by Opium (Alkaloids), Unspecified"
+728238,32718189,Secondary,Y,965.02,,,2014-09-16 00:00:00,965.02,Poisoning by Methadone
+728238,32718189,Secondary,Y,969.4,,,2014-09-16 00:00:00,969.4,Poisoning by Benzodiazepine-Based Tranquilizers
+728238,32718189,Secondary,Y,970.81,,,2014-09-16 00:00:00,970.81,Poisoning by Cocaine
+728238,32718189,Secondary,Y,980.9,,,2014-09-16 00:00:00,980.9,Toxic Effect of Unspecified Alcohol
+728238,32718189,Secondary,Y,E950.0,,,2014-09-16 00:00:00,E950.0,"Suicide and Self-Inflicted Poisoning by Analgesics, Antipyretics, and Antirheumatics"
+728238,32718189,Secondary,Y,E950.3,,,2014-09-16 00:00:00,E950.3,Suicide and Self-Inflicted Poisoning by Tranquilizers and Other Psychotropic Agents
+728238,32718189,Secondary,Y,E950.4,,,2014-09-16 00:00:00,E950.4,Suicide and Self-Inflicted Poisoning by Other Specified Drugs and Medicinal Substances
+728238,32718189,Secondary,Y,E950.9,,,2014-09-16 00:00:00,E950.9,Suicide and Self-Inflicted Poisoning by Other and Unspecified Solid and Liquid Substances
+728238,32718189,Secondary,Y,296.33,,,2014-09-16 00:00:00,296.33,"Major Depressive Disorder, Recurrent Episode, Severe Degree, without Mention of Psychotic Behavior"
+728238,32718189,Secondary,Y,300.00,,,2014-09-16 00:00:00,300.00,"Anxiety State, Unspecified"
+728238,32718189,Secondary,Y,304.01,,,2014-09-16 00:00:00,304.01,"Opioid Type Dependence, Continuous Use"
+728238,32718189,Secondary,Y,305.00,,,2014-09-16 00:00:00,305.00,"Alcohol Abuse, Unspecified Drinking Behavior"
+728238,32718189,Secondary,Y,305.1,,,2014-09-16 00:00:00,305.1,Tobacco Use Disorder
+717643,32712891,Primary,Y,153.4,,,2014-08-27 00:00:00,153.4,Malignant Neoplasm of Cecum
+717643,32712891,Secondary,Y,244.9,,,2014-08-27 00:00:00,244.9,Unspecified Hypothyroidism
+717643,32712891,Secondary,N,276.69,,,2014-08-27 00:00:00,276.69,Other Fluid Overload
+717643,32712891,Secondary,Y,280.9,,,2014-08-27 00:00:00,280.9,"Iron Deficiency Anemia, Unspecified"
+717643,32712891,Secondary,Y,327.23,,,2014-08-27 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+717643,32712891,Secondary,N,338.18,,,2014-08-27 00:00:00,338.18,Other Acute Postoperative Pain
+717643,32712891,Secondary,Y,416.8,,,2014-08-27 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+717643,32712891,Secondary,,45.73,,,2014-08-27 00:00:00,45.73,Open and Other Right Hemicolectomy
+717643,32712891,Primary,,45.93,,,2014-08-27 00:00:00,45.93,Other Small-To-Large Intestinal Anastomosis
+717643,32712891,Secondary,Y,496,,,2014-08-27 00:00:00,496,"Chronic Airway Obstruction, Not Elsewhere Classified"
+717643,32712891,Secondary,,50.11,,,2014-08-27 00:00:00,50.11,Closed (Percutaneous) [needle] Biopsy of Liver
+717643,32712891,Secondary,N,518.0,,,2014-08-27 00:00:00,518.0,Pulmonary Collapse
+717643,32712891,Secondary,,53.49,,,2014-08-27 00:00:00,53.49,Other Open Umbilical Herniorrhaphy
+717643,32712891,Secondary,Y,530.81,,,2014-08-27 00:00:00,530.81,Esophageal Reflux
+717643,32712891,Secondary,,54.21,,,2014-08-27 00:00:00,54.21,Laparoscopy
+717643,32712891,Secondary,,54.4,,,2014-08-27 00:00:00,54.4,Excision or Destruction of Peritoneal Tissue
+717643,32712891,Secondary,Y,553.1,,,2014-08-27 00:00:00,553.1,Umbilical Hernia without Mention of Obstruction or Gangrene
+717643,32712891,Secondary,Y,571.8,,,2014-08-27 00:00:00,571.8,Other Chronic Nonalcoholic Liver Disease
+717643,32712891,Secondary,N,799.02,,,2014-08-27 00:00:00,799.02,Hypoxemia
+717643,32712891,Secondary,,99.04,,,2014-08-27 00:00:00,99.04,Transfusion of Packed Cells
+717643,32712891,Secondary,N,998.59,,,2014-08-27 00:00:00,998.59,Other Postoperative Infection
+717643,32712891,Secondary,N,E878.8,,,2014-08-27 00:00:00,E878.8,"Other Specified Surgical Operations and Procedures Causing Abnormal Patient Reaction, or Later Complication, without Men"
+717643,32712891,Secondary,E,V10.06,,,2014-08-27 00:00:00,V10.06,"Personal History of Malignant Neoplasm of Rectum, Rectosigmoid Junction, and Anus"
+717643,32712891,Secondary,E,V14.0,,,2014-08-27 00:00:00,V14.0,Personal History of Allergy to Penicillin
+717643,32712891,Secondary,E,V15.82,,,2014-08-27 00:00:00,V15.82,Personal History of Tobacco Use
+717643,32712891,Secondary,E,V46.2,,,2014-08-27 00:00:00,V46.2,"Other Dependence on Machines, Supplemental Oxygen"
+717643,32712891,Secondary,E,V64.41,,,2014-08-27 00:00:00,V64.41,Laparoscopic Surgical Procedure Converted to Open Procedure
+199909,34641476,Secondary,,34.04,,,2014-01-06 00:00:00,34.04,Insertion of Intercostal Catheter for Drainage
+199909,34641476,Secondary,,34.91,,,2014-01-06 00:00:00,34.91,Thoracentesis
+199909,34641476,Secondary,,37.72,,,2014-01-07 00:00:00,37.72,Initial Insertion of Transvenous Leads [electrodes] Into Atrium and Ventricle
+199909,34641476,Primary,,37.83,,,2014-01-07 00:00:00,37.83,Initial Insertion of Dual-Chamber Device
+199909,34641476,Secondary,,38.95,,,2014-01-17 00:00:00,38.95,Venous Catheterization for Renal Dialysis
+199909,34641476,Secondary,,38.97,,,2014-01-06 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+199909,34641476,Secondary,,39.95,,,2014-01-06 00:00:00,39.95,Hemodialysis
+199909,34641476,Primary,,427.81,,,2014-01-03 00:00:00,427.81,Sinoatrial Node Dysfunction
+199909,34641476,Primary,,780.09,,,2014-01-14 00:00:00,780.09,Other Alteration of Consciousness
+199909,34641476,Primary,,787.02,,,2014-01-02 00:00:00,787.02,Nausea Alone
+199909,34641476,Secondary,,99.10,,,2014-01-07 00:00:00,99.10,Injection or Infusion of Thrombolytic Agent
+199909,34641476,Primary,,V45.01,,,2014-01-08 00:00:00,V45.01,Cardiac pacemaker
+199909,34641476,Primary,,V66.7,,,2014-01-02 00:00:00,V66.7,Encounter for Palliative Care
+199909,34641476,Primary,,V66.7,,,2014-01-14 00:00:00,V66.7,Encounter for Palliative Care
+260304,34718573,Primary,,,,,2014-01-25 00:00:00,,
+260304,34718573,Secondary,Y,008.45,,,2014-01-23 00:00:00,008.45,Intestinal Infection Due to Clostridium Difficile
+260304,34718573,Secondary,Y,070.70,,,2014-01-23 00:00:00,070.70,Unspecified Viral Hepatitis C without Hepatic Coma
+260304,34718573,Secondary,Y,250.00,,,2014-01-23 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+260304,34718573,Secondary,Y,285.9,,,2014-01-23 00:00:00,285.9,"Anemia, Unspecified"
+260304,34718573,Primary,,39.95,,,2014-01-27 00:00:00,39.95,Hemodialysis
+260304,34718573,Secondary,Y,403.91,,,2014-01-23 00:00:00,403.91,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage V or End Stage Renal Disease"
+260304,34718573,Secondary,Y,414.01,,,2014-01-23 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+260304,34718573,Primary,Y,428.0,,,2014-01-23 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+260304,34718573,Secondary,Y,530.81,,,2014-01-23 00:00:00,530.81,Esophageal Reflux
+260304,34718573,Secondary,Y,585.6,,,2014-01-23 00:00:00,585.6,End Stage Renal Disease
+260304,34718573,Secondary,Y,733.90,,,2014-01-23 00:00:00,733.90,"Disorder of Bone and Cartilage, Unspecified"
+260304,34718573,Secondary,Y,799.02,,,2014-01-23 00:00:00,799.02,Hypoxemia
+260304,34718573,Secondary,E,V15.82,,,2014-01-23 00:00:00,V15.82,Personal History of Tobacco Use
+260304,34718573,Secondary,E,V45.11,,,2014-01-23 00:00:00,V45.11,Renal Dialysis Status
+725846,34378875,Primary,,038.11,,,2014-03-06 00:00:00,038.11,Sepsis due to Methicillin susceptible Staphylococcus aureus
+725846,34378875,Primary,Y,038.11,,,2014-03-01 00:00:00,038.11,Methicillin Susceptible Staphylococcus Aureus Septicemia
+725846,34378875,Secondary,Y,041.6,,,2014-03-01 00:00:00,041.6,Proteus (Mirabilis) (Morganii) Infection in Conditions Classified Elsewhere and of Unspecified Site
+725846,34378875,Secondary,Y,262,,,2014-03-01 00:00:00,262,Other Severe Protein-Calorie Malnutrition
+725846,34378875,Secondary,Y,272.0,,,2014-03-01 00:00:00,272.0,Pure Hypercholesterolemia
+725846,34378875,Secondary,Y,272.4,,,2014-03-01 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+725846,34378875,Secondary,Y,275.3,,,2014-03-01 00:00:00,275.3,Disorders of Phosphorus Metabolism
+725846,34378875,Secondary,Y,276.0,,,2014-03-01 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+725846,34378875,Secondary,Y,276.50,,,2014-03-01 00:00:00,276.50,"Volume Depletion, Unspecified"
+725846,34378875,Secondary,Y,276.8,,,2014-03-01 00:00:00,276.8,HYPOPOTASSEMIA
+725846,34378875,Secondary,Y,280.0,,,2014-03-01 00:00:00,280.0,Iron Deficiency Anemia Secondary to Blood Loss (Chronic)
+725846,34378875,Secondary,Y,300.00,,,2014-03-01 00:00:00,300.00,"Anxiety State, Unspecified"
+725846,34378875,Primary,,320.9,,,2014-03-01 00:00:00,320.9,Bacterial meningitis
+725846,34378875,Secondary,Y,324.1,,,2014-03-01 00:00:00,324.1,Intraspinal Abscess
+725846,34378875,Secondary,Y,338.19,,,2014-03-01 00:00:00,338.19,Other Acute Pain
+725846,34378875,Secondary,Y,338.29,,,2014-03-01 00:00:00,338.29,Other Chronic Pain
+725846,34378875,Secondary,Y,342.90,,,2014-03-01 00:00:00,342.90,"Hemiplegia, Unspecified, Affecting Unspecified Side"
+725846,34378875,Secondary,,38.93,,,2014-03-04 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+725846,34378875,Primary,,401.9,,,2014-03-04 00:00:00,401.9,HTN (hypertension)
+725846,34378875,Secondary,Y,401.9,,,2014-03-01 00:00:00,401.9,Unspecified Essential Hypertension
+725846,34378875,Secondary,N,410.71,,,2014-03-01 00:00:00,410.71,"Acute Myocardial Infarction, Subendocardial Infarction, Initial Episode of Care"
+725846,34378875,Secondary,Y,414.01,,,2014-03-01 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+725846,34378875,Secondary,Y,414.8,,,2014-03-01 00:00:00,414.8,Other Specified Forms of Chronic Ischemic Heart Disease
+725846,34378875,Secondary,Y,416.8,,,2014-03-01 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+725846,34378875,Secondary,Y,427.31,,,2014-03-01 00:00:00,427.31,Atrial Fibrillation
+725846,34378875,Primary,,428.0,,,2014-03-10 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+725846,34378875,Secondary,Y,428.0,,,2014-03-01 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+725846,34378875,Primary,,428.40,,,2014-03-04 00:00:00,428.40,Combined systolic and diastolic heart failure
+725846,34378875,Secondary,Y,428.43,,,2014-03-01 00:00:00,428.43,Acute on Chronic Combined Systolic and Diastolic Heart Failure
+725846,34378875,Primary,,43.11,,,2014-03-12 00:00:00,43.11,Percutaneous [endoscopic] Gastrostomy [peg]
+725846,34378875,Secondary,E,438.89,,,2014-03-01 00:00:00,438.89,Other Late Effects of Cerebrovascular Disease
+725846,34378875,Secondary,Y,493.90,,,2014-03-01 00:00:00,493.90,"Asthma, Unspecified"
+725846,34378875,Secondary,N,518.81,,,2014-03-01 00:00:00,518.81,Acute Respiratory Failure
+725846,34378875,Secondary,Y,584.9,,,2014-03-01 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+725846,34378875,Secondary,Y,596.54,,,2014-03-01 00:00:00,596.54,Neurogenic Bladder Nos
+725846,34378875,Secondary,Y,707.03,,,2014-03-01 00:00:00,707.03,"Pressure Ulcer, Lower Back"
+725846,34378875,Secondary,Y,707.24,,,2014-03-01 00:00:00,707.24,Pressure Ulcer Stage IV
+725846,34378875,Secondary,Y,715.90,,,2014-03-01 00:00:00,715.90,"[DJD] OSTEOARTHROSIS, UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED, INVOLVING UNSPECIFIED SITE"
+725846,34378875,Secondary,Y,723.5,,,2014-03-01 00:00:00,723.5,"Torticollis, Unspecified"
+725846,34378875,Secondary,Y,724.02,,,2014-03-01 00:00:00,724.02,Spinal Stenosis of Lumbar Region without Neurogenic Claudication
+725846,34378875,Secondary,Y,730.28,,,2014-03-01 00:00:00,730.28,Unspecified Osteomyelitis Involving Other Specified Sites
+725846,34378875,Secondary,Y,783.0,,,2014-03-01 00:00:00,783.0,Anorexia
+725846,34378875,Secondary,Y,785.52,,,2014-03-01 00:00:00,785.52,Septic Shock
+725846,34378875,Primary,,786.05,,,2014-03-04 00:00:00,786.05,Shortness of Breath
+725846,34378875,Primary,,786.09,,,2014-03-03 00:00:00,786.09,Other Dyspnea and Respiratory Abnormality
+725846,34378875,Secondary,Y,787.6,,,2014-03-01 00:00:00,787.6,Incontinence of Feces
+725846,34378875,Secondary,Y,805.2,,,2014-03-01 00:00:00,805.2,Closed Fracture of Dorsal [thoracic] Vertebra without Mention of Spinal Cord Injury
+725846,34378875,Secondary,Y,805.4,,,2014-03-01 00:00:00,805.4,Closed Fracture of Lumbar Vertebra without Mention of Spinal Cord Injury
+725846,34378875,Secondary,,93.90,,,2014-03-05 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+725846,34378875,Secondary,,96.6,,,2014-03-13 00:00:00,96.6,Enteral Infusion of Concentrated Nutritional Substances
+725846,34378875,Secondary,,99.04,,,2014-03-02 00:00:00,99.04,Transfusion of Packed Cells
+725846,34378875,Secondary,Y,995.92,,,2014-03-01 00:00:00,995.92,Severe Sepsis
+725846,34378875,Secondary,E,V15.82,,,2014-03-01 00:00:00,V15.82,Personal History of Tobacco Use
+725846,34378875,Secondary,E,V43.64,,,2014-03-01 00:00:00,V43.64,Hip Joint Replaced by Other Means
+725846,34378875,Secondary,E,V49.84,,,2014-03-01 00:00:00,V49.84,Bed Confinement Status
+725846,34378875,Secondary,Y,V49.89,,,2014-03-01 00:00:00,V49.89,Other Specified Conditions Influencing Health Status
+725846,34378875,Primary,,V65.40,,,2014-03-03 00:00:00,V65.40,Counseling Nos
+725846,34378875,Primary,,V65.40,,,2014-03-04 00:00:00,V65.40,Counseling Nos
+725846,34378875,Primary,,V66.7,,,2014-03-03 00:00:00,V66.7,Encounter for Palliative Care
+725846,34378875,Primary,,V66.7,,,2014-03-04 00:00:00,V66.7,Encounter for Palliative Care
+725846,34378875,Secondary,E,V66.7,,,2014-03-01 00:00:00,V66.7,Encounter for Palliative Care
+725846,34378875,Secondary,E,V85.4,,,2014-03-01 00:00:00,V85.4,"Body Mass Index 40 and Over, Adult"
+727524,33507454,Secondary,,31500,,,2014-06-24 00:00:00,31500,"Intubation, endotracheal, emergency procedure"
+727524,33507454,Secondary,,36140,,,2014-06-24 00:00:00,36140,Introduction of needle or intracatheter; extremity artery
+727524,33507454,Primary,,36556,,,2014-06-24 00:00:00,36556,Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older
+727524,33507454,Secondary,,38.91,,,2014-06-24 00:00:00,38.91,Arterial Catheterization
+727524,33507454,Secondary,,38.93,,,2014-06-24 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+727524,33507454,Secondary,,51702,,,2014-06-24 00:00:00,51702,"Insertion of temporary indwelling bladder catheter; simple (eg, Foley)"
+727524,33507454,Secondary,,57.94,,,2014-06-24 00:00:00,57.94,Insertion of Indwelling Urinary Catheter
+727524,33507454,Secondary,,96.04,,,2014-06-24 00:00:00,96.04,Insertion of Endotracheal Tube
+727524,33507454,Secondary,,99291,,,2014-06-24 00:00:00,99291,"Critical care, evaluation and management of the critically ill or critically injured patient; first 30-74 minutes"
+640502,33545096,Secondary,Y,252.00,,,2014-01-11 00:00:00,252.00,"Hyperparathyroidism, Unspecified"
+640502,33545096,Primary,,276.0,,,2014-01-15 00:00:00,276.0,Hypernatremia NOS
+640502,33545096,Primary,Y,276.0,,,2014-01-11 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+640502,33545096,Secondary,Y,280.9,,,2014-01-11 00:00:00,280.9,"Iron Deficiency Anemia, Unspecified"
+640502,33545096,Secondary,Y,293.0,,,2014-01-11 00:00:00,293.0,Delirium Due to Conditions Classified Elsewhere
+640502,33545096,Secondary,Y,294.20,,,2014-01-11 00:00:00,294.20,"Dementia, Unspecified, in Conditions Classified Elsewhere without Behavioral Disturbance"
+640502,33545096,Primary,,307.41,,,2014-01-11 00:00:00,307.41,Adjustment insomnia
+640502,33545096,Secondary,Y,307.41,,,2014-01-11 00:00:00,307.41,Transient Disorder of Initiating or Maintaining Sleep
+640502,33545096,Secondary,Y,311,,,2014-01-11 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+640502,33545096,Secondary,Y,362.50,,,2014-01-11 00:00:00,362.50,"Macular Degeneration (Senile) of Retina, Unspecified"
+640502,33545096,Primary,,401.9,,,2014-01-11 00:00:00,401.9,HTN [Hypertension]
+640502,33545096,Secondary,Y,403.90,,,2014-01-11 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+640502,33545096,Secondary,Y,414.00,,,2014-01-11 00:00:00,414.00,"Coronary Atherosclerosis of Unspecified Type of Vessel, Native or Graft"
+640502,33545096,Primary,,427.31,,,2014-01-11 00:00:00,427.31,Afib
+640502,33545096,Secondary,Y,427.31,,,2014-01-11 00:00:00,427.31,Atrial Fibrillation
+640502,33545096,Secondary,N,427.5,,,2014-01-11 00:00:00,427.5,Cardiac Arrest
+640502,33545096,Primary,,428.0,,,2014-01-21 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+640502,33545096,Secondary,Y,428.0,,,2014-01-11 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+640502,33545096,Secondary,N,428.33,,,2014-01-11 00:00:00,428.33,Acute on Chronic Diastolic Heart Failure
+640502,33545096,Secondary,N,518.81,,,2014-01-11 00:00:00,518.81,Acute Respiratory Failure
+640502,33545096,Secondary,N,584.9,,,2014-01-11 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+640502,33545096,Secondary,Y,585.9,,,2014-01-11 00:00:00,585.9,"Chronic Kidney Disease, Unspecified"
+640502,33545096,Primary,,780.09,,,2014-01-11 00:00:00,780.09,Delirium with fluctuating severity
+640502,33545096,Primary,,799.3,,,2014-01-11 00:00:00,799.3,Physical deconditioning
+640502,33545096,Secondary,Y,799.3,,,2014-01-11 00:00:00,799.3,"Debility, Unspecified"
+640502,33545096,Primary,,93.90,,,2014-01-11 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+640502,33545096,Secondary,E,V14.1,,,2014-01-11 00:00:00,V14.1,Personal History of Allergy to Other Antibiotic Agent
+640502,33545096,Secondary,E,V14.2,,,2014-01-11 00:00:00,V14.2,Personal History of Allergy to Sulfonamides
+640502,33545096,Secondary,E,V15.08,,,2014-01-11 00:00:00,V15.08,Allergy to Radiographic Dye
+640502,33545096,Secondary,E,V43.3,,,2014-01-11 00:00:00,V43.3,Heart Valve Replaced by Other Means
+640502,33545096,Secondary,E,V44.3,,,2014-01-11 00:00:00,V44.3,Colostomy Status
+640502,33545096,Secondary,E,V45.79,,,2014-01-11 00:00:00,V45.79,Other Acquired Absence of Organ
+640502,33545096,Secondary,E,V45.81,,,2014-01-11 00:00:00,V45.81,Postsurgical Aortocoronary Bypass Status
+640502,33545096,Secondary,E,V58.61,,,2014-01-11 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants
+640502,33545096,Secondary,E,V58.66,,,2014-01-11 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+640502,33545096,Primary,,V65.40,,,2014-01-21 00:00:00,V65.40,Counseling Nos
+640502,33545096,Primary,,V66.7,,,2014-01-21 00:00:00,V66.7,Encounter for Palliative Care
+640502,33545096,Secondary,E,V66.7,,,2014-01-11 00:00:00,V66.7,Encounter for Palliative Care
+713818,32891714,Secondary,Y,244.9,,,2014-11-25 00:00:00,244.9,Unspecified Hypothyroidism
+713818,32891714,Secondary,Y,250.40,,,2014-11-25 00:00:00,250.40,"Diabetes mellitus with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+713818,32891714,Secondary,Y,250.50,,,2014-11-25 00:00:00,250.50,"Diabetes mellitus with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+713818,32891714,Primary,Y,255.41,,,2014-11-25 00:00:00,255.41,Glucocorticoid Deficiency
+713818,32891714,Secondary,Y,255.9,,,2014-11-25 00:00:00,255.9,Unspecified Disorder of Adrenal Glands
+713818,32891714,Secondary,Y,272.4,,,2014-11-25 00:00:00,272.4,Other and Unspecified Hyperlipidemia
+713818,32891714,Secondary,Y,276.8,,,2014-11-25 00:00:00,276.8,HYPOPOTASSEMIA
+713818,32891714,Secondary,Y,278.01,,,2014-11-25 00:00:00,278.01,Morbid Obesity
+713818,32891714,Secondary,Y,327.23,,,2014-11-25 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+713818,32891714,Secondary,Y,362.01,,,2014-11-25 00:00:00,362.01,Background Diabetic Retinopathy
+713818,32891714,Secondary,Y,403.90,,,2014-11-25 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+713818,32891714,Secondary,Y,530.81,,,2014-11-25 00:00:00,530.81,Esophageal Reflux
+713818,32891714,Secondary,Y,583.81,,,2014-11-25 00:00:00,583.81,"Nephritis and Nephropathy, Not Specified as Acute or Chronic, in Diseases Classified Elsewhere"
+713818,32891714,Secondary,Y,584.5,,,2014-11-25 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+713818,32891714,Secondary,Y,584.9,,,2014-11-25 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+713818,32891714,Secondary,Y,585.4,,,2014-11-25 00:00:00,585.4,"Chronic Kidney Disease, Stage IV (Severe)"
+713818,32891714,Secondary,E,V85.43,,,2014-11-25 00:00:00,V85.43,"Body Mass Index 50.0-59.9, Adult"
+132263,33391677,Secondary,Y,112.89,,,2014-04-04 00:00:00,112.89,Other Candidiasis of Other Specified Sites
+132263,33391677,Secondary,Y,252.00,,,2014-04-04 00:00:00,252.00,"Hyperparathyroidism, Unspecified"
+132263,33391677,Secondary,Y,268.9,,,2014-04-04 00:00:00,268.9,Unspecified Vitamin D Deficiency
+132263,33391677,Primary,,279.9,,,2014-04-04 00:00:00,279.9,Unspecified Disorder of Immune Mechanism
+132263,33391677,Secondary,Y,300.00,,,2014-04-04 00:00:00,300.00,"Anxiety State, Unspecified"
+132263,33391677,Secondary,Y,305.90,,,2014-04-04 00:00:00,305.90,"Other, Mixed, or Unspecified Drug Abuse, Unspecified Use"
+132263,33391677,Secondary,Y,311,,,2014-04-04 00:00:00,311,"Depressive Disorder, Not Elsewhere Classified"
+132263,33391677,Secondary,Y,327.23,,,2014-04-04 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+132263,33391677,Secondary,Y,355.8,,,2014-04-04 00:00:00,355.8,"Mononeuritis of Lower Limb, Unspecified"
+132263,33391677,Secondary,Y,362.50,,,2014-04-04 00:00:00,362.50,"Macular Degeneration (Senile) of Retina, Unspecified"
+132263,33391677,Secondary,Y,365.9,,,2014-04-04 00:00:00,365.9,Unspecified Glaucoma
+132263,33391677,Secondary,Y,401.9,,,2014-04-04 00:00:00,401.9,Unspecified Essential Hypertension
+132263,33391677,Secondary,Y,413.9,,,2014-04-04 00:00:00,413.9,Other and Unspecified Angina Pectoris
+132263,33391677,Secondary,Y,530.81,,,2014-04-04 00:00:00,530.81,Esophageal Reflux
+132263,33391677,Primary,,576.1,,,2014-04-04 00:00:00,576.1,CHOLANGITIS
+132263,33391677,Primary,,576.1,,,2014-04-14 00:00:00,576.1,CHOLANGITIS
+132263,33391677,Secondary,Y,576.1,,,2014-04-04 00:00:00,576.1,CHOLANGITIS
+132263,33391677,Secondary,Y,600.00,,,2014-04-04 00:00:00,600.00,Hypertrophy (Benign) of Prostate without Urinary Obstruction and Other Lower Urinary Tract (Luts)
+132263,33391677,Secondary,Y,721.3,,,2014-04-04 00:00:00,721.3,Lumbosacral Spondylosis without Myelopathy
+132263,33391677,Secondary,Y,733.00,,,2014-04-04 00:00:00,733.00,"Osteoporosis, Unspecified"
+132263,33391677,Secondary,,87.54,,,2014-04-11 00:00:00,87.54,Other Cholangiogram
+132263,33391677,Primary,,97.05,,,2014-04-07 00:00:00,97.05,Replacement of Stent (Tube) in Biliary or Pancreatic Duct
+132263,33391677,Secondary,,97.05,,,2014-04-07 00:00:00,97.05,Replacement of Stent (Tube) in Biliary or Pancreatic Duct
+132263,33391677,Primary,Y,996.59,,,2014-04-04 00:00:00,996.59,"Mechanical Complication Due to Other Implant and Internal Device, Not Elsewhere Classified"
+132263,33391677,Secondary,Y,V09.80,,,2014-04-04 00:00:00,V09.80,"Infection with Microorganisms Resistant to Other Specified Drugs, without Mention of Resistance to Multiple Drugs"
+132263,33391677,Secondary,E,V42.7,,,2014-04-04 00:00:00,V42.7,Liver Replaced by Transplant
+132263,33391677,Secondary,E,V42.83,,,2014-04-04 00:00:00,V42.83,Pancreas Replaced by Transplant
+132263,33391677,Secondary,E,V42.84,,,2014-04-04 00:00:00,V42.84,Intestines Replaced by Transplant
+132263,33391677,Primary,,V42.89,,,2014-04-04 00:00:00,V42.89,Other Organ or Tissue Replaced by Transplant
+132263,33391677,Primary,,V87.46,,,2014-04-04 00:00:00,V87.46,Personal History of Immunosuppression Therapy
+132263,33391677,Primary,,V87.46,,,2014-04-14 00:00:00,V87.46,Personal History of Immunosuppression Therapy
+200501,34639668,Secondary,Y,238.4,,,2014-07-25 00:00:00,238.4,Polycythemia Vera
+200501,34639668,Secondary,Y,244.9,,,2014-07-25 00:00:00,244.9,Unspecified Hypothyroidism
+200501,34639668,Secondary,Y,250.00,,,2014-07-25 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+200501,34639668,Secondary,Y,278.01,,,2014-07-25 00:00:00,278.01,Morbid Obesity
+200501,34639668,Secondary,Y,278.03,,,2014-07-25 00:00:00,278.03,Obesity Hypoventilation Syndrome
+200501,34639668,Secondary,Y,295.30,,,2014-07-25 00:00:00,295.30,"Paranoid Type Schizophrenia, Unspecified State"
+200501,34639668,Secondary,Y,305.1,,,2014-07-25 00:00:00,305.1,Tobacco Use Disorder
+200501,34639668,Secondary,Y,327.23,,,2014-07-25 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+200501,34639668,Secondary,Y,397.0,,,2014-07-25 00:00:00,397.0,Diseases of Tricuspid Valve
+200501,34639668,Secondary,Y,401.9,,,2014-07-25 00:00:00,401.9,Unspecified Essential Hypertension
+200501,34639668,Secondary,Y,414.01,,,2014-07-25 00:00:00,414.01,Coronary Atherosclerosis of Native Coronary Artery
+200501,34639668,Secondary,Y,416.8,,,2014-07-25 00:00:00,416.8,Other Chronic Pulmonary Heart Diseases
+200501,34639668,Secondary,Y,416.9,,,2014-07-25 00:00:00,416.9,"Chronic Pulmonary Heart Disease, Unspecified"
+200501,34639668,Secondary,Y,428.0,,,2014-07-25 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+200501,34639668,Primary,Y,428.31,,,2014-07-25 00:00:00,428.31,Acute Diastolic Heart Failure
+200501,34639668,Secondary,Y,429.3,,,2014-07-25 00:00:00,429.3,CARDIOMEGALY
+200501,34639668,Secondary,N,458.9,,,2014-07-25 00:00:00,458.9,"Hypotension, Unspecified"
+200501,34639668,Secondary,Y,473.9,,,2014-07-25 00:00:00,473.9,Unspecified Sinusitis (Chronic)
+200501,34639668,Secondary,Y,491.21,,,2014-07-25 00:00:00,491.21,Obstructive Chronic Bronchitis with (Acute) Exacerbation
+200501,34639668,Secondary,Y,507.0,,,2014-07-25 00:00:00,507.0,Pneumonitis Due to Inhalation of Food or Vomitus
+200501,34639668,Secondary,Y,518.84,,,2014-07-25 00:00:00,518.84,Acute and Chronic Respiratory Failure
+200501,34639668,Secondary,E,V15.81,,,2014-07-25 00:00:00,V15.81,"Personal History of Noncompliance with Medical Treatment, Presenting Hazards to Health"
+200501,34639668,Secondary,E,V85.42,,,2014-07-25 00:00:00,V85.42,"Body Mass Index 45.0-49.9, Adult"
+707836,34239355,Primary,Y,038.9,,,2014-07-23 00:00:00,038.9,Unspecified Septicemia
+707836,34239355,Secondary,Y,250.00,,,2014-07-23 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+707836,34239355,Secondary,N,276.0,,,2014-07-23 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+707836,34239355,Secondary,Y,359.9,,,2014-07-23 00:00:00,359.9,"Myopathy, Unspecified"
+707836,34239355,Secondary,Y,372.30,,,2014-07-23 00:00:00,372.30,"Conjunctivitis, Unspecified"
+707836,34239355,Primary,,401.9,,,2014-07-23 00:00:00,401.9,Unspecified Essential Hypertension
+707836,34239355,Secondary,Y,401.9,,,2014-07-23 00:00:00,401.9,Unspecified Essential Hypertension
+707836,34239355,Secondary,Y,486,,,2014-07-23 00:00:00,486,"Pneumonia, Organism Unspecified"
+707836,34239355,Secondary,Y,493.20,,,2014-07-23 00:00:00,493.20,"Chronic Obstructive Asthma, Unspecified"
+707836,34239355,Secondary,Y,518.81,,,2014-07-23 00:00:00,518.81,Acute Respiratory Failure
+707836,34239355,Secondary,Y,530.5,,,2014-07-23 00:00:00,530.5,Dyskinesia of Esophagus
+707836,34239355,Secondary,Y,715.90,,,2014-07-23 00:00:00,715.90,"[DJD] OSTEOARTHROSIS, UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED, INVOLVING UNSPECIFIED SITE"
+707836,34239355,Secondary,Y,733.00,,,2014-07-23 00:00:00,733.00,"Osteoporosis, Unspecified"
+707836,34239355,Secondary,Y,782.3,,,2014-07-23 00:00:00,782.3,EDEMA
+707836,34239355,Primary,,787.20,,,2014-07-23 00:00:00,787.20,"Dysphagia, Unspecified"
+707836,34239355,Secondary,Y,787.20,,,2014-07-23 00:00:00,787.20,"Dysphagia, Unspecified"
+707836,34239355,Primary,,93.90,,,2014-07-23 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+707836,34239355,Secondary,Y,995.92,,,2014-07-23 00:00:00,995.92,Severe Sepsis
+707836,34239355,Secondary,E,V12.51,,,2014-07-23 00:00:00,V12.51,Personal History of Venous Thrombosis and Embolism
+707836,34239355,Secondary,E,V14.2,,,2014-07-23 00:00:00,V14.2,Personal History of Allergy to Sulfonamides
+707836,34239355,Secondary,E,V44.1,,,2014-07-23 00:00:00,V44.1,Gastrostomy Status
+707836,34239355,Secondary,Y,V49.86,,,2014-07-23 00:00:00,V49.86,Do Not Resuscitate Status
+707836,34239355,Secondary,E,V58.67,,,2014-07-23 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+707836,34239355,Secondary,E,V66.7,,,2014-07-23 00:00:00,V66.7,Encounter for Palliative Care
+711835,34421411,Primary,Y,038.9,,,2014-07-13 00:00:00,038.9,Unspecified Septicemia
+711835,34421411,Secondary,Y,284.9,,,2014-07-13 00:00:00,284.9,"Aplastic Anemia, Unspecified"
+711835,34421411,Secondary,Y,303.90,,,2014-07-13 00:00:00,303.90,"Other and Unspecified Alcohol Dependence, Unspecified Drinking Behavior"
+711835,34421411,Secondary,Y,305.1,,,2014-07-13 00:00:00,305.1,Tobacco Use Disorder
+711835,34421411,Secondary,Y,345.3,,,2014-07-13 00:00:00,345.3,"Grand Mal Status, Epileptic"
+711835,34421411,Secondary,Y,348.30,,,2014-07-13 00:00:00,348.30,"Encephalopathy, Unspecified"
+711835,34421411,Primary,,38.93,,,2014-07-14 00:00:00,38.93,"Venous Catheterization, Not Elsewhere Classified"
+711835,34421411,Secondary,Y,518.81,,,2014-07-13 00:00:00,518.81,Acute Respiratory Failure
+711835,34421411,Secondary,Y,578.0,,,2014-07-13 00:00:00,578.0,HEMATEMESIS
+711835,34421411,Secondary,Y,682.4,,,2014-07-13 00:00:00,682.4,"Cellulitis and Abscess of Hand, Except Fingers and Thumb"
+711835,34421411,Secondary,Y,782.1,,,2014-07-13 00:00:00,782.1,Rash and Other Nonspecific Skin Eruption
+711835,34421411,Secondary,Y,995.92,,,2014-07-13 00:00:00,995.92,Severe Sepsis
+733563,33985447,Primary,,486,,,2014-01-03 00:00:00,486,Pneumonia
+733563,33985447,Primary,,518.81,,,2014-01-07 00:00:00,518.81,Acute respiratory failure with hypoxia
+733563,33985447,Primary,,599.71,,,2014-01-06 00:00:00,599.71,Gross Hematuria
+733563,33985447,Primary,,780.97,,,2014-01-08 00:00:00,780.97,Altered Mental Status
+733563,33985447,Secondary,,93.90,,,2014-01-05 00:00:00,93.90,Non-Invasive Mechanical Ventilation
+733563,33985447,Primary,,V54.15,,,2014-01-02 00:00:00,V54.15,Closed disp subtrochanteric fracture of femur with routine healing
+235296,34555955,Secondary,Y,244.9,,,2014-09-05 00:00:00,244.9,Unspecified Hypothyroidism
+235296,34555955,Secondary,Y,250.00,,,2014-09-05 00:00:00,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+235296,34555955,Secondary,Y,273.1,,,2014-09-05 00:00:00,273.1,Monoclonal Paraproteinemia
+235296,34555955,Secondary,N,275.2,,,2014-09-05 00:00:00,275.2,Disorders of Magnesium Metabolism
+235296,34555955,Secondary,Y,275.42,,,2014-09-05 00:00:00,275.42,HYPERCALCEMIA
+235296,34555955,Secondary,N,276.0,,,2014-09-05 00:00:00,276.0,Hyperosmolality and/or Hypernatremia
+235296,34555955,Secondary,N,276.7,,,2014-09-05 00:00:00,276.7,HYPERPOTASSEMIA
+235296,34555955,Secondary,Y,278.01,,,2014-09-05 00:00:00,278.01,Morbid Obesity
+235296,34555955,Secondary,Y,287.5,,,2014-09-05 00:00:00,287.5,"Thrombocytopenia, Unspecified"
+235296,34555955,Secondary,Y,288.60,,,2014-09-05 00:00:00,288.60,"Leukocytosis, Unspecified"
+235296,34555955,Secondary,N,293.0,,,2014-09-05 00:00:00,293.0,Delirium Due to Conditions Classified Elsewhere
+235296,34555955,Secondary,Y,327.23,,,2014-09-05 00:00:00,327.23,Obstructive Sleep Apnea (Adult) (Pediatric)
+235296,34555955,Primary,,33.24,,,2014-09-10 00:00:00,33.24,Closed [endoscopic] Biopsy of Bronchus
+235296,34555955,Secondary,N,349.82,,,2014-09-05 00:00:00,349.82,Toxic Encephalopathy
+235296,34555955,Secondary,,38.97,,,2014-09-09 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+235296,34555955,Secondary,,38.97,,,2014-09-18 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+235296,34555955,Secondary,Y,403.90,,,2014-09-05 00:00:00,403.90,"Hypertensive Chronic Kidney Disease, Unspecified, with Chronic Kidney Disease Stage I Through Stage IV, or Unspecified"
+235296,34555955,Secondary,N,410.71,,,2014-09-05 00:00:00,410.71,"Acute Myocardial Infarction, Subendocardial Infarction, Initial Episode of Care"
+235296,34555955,Secondary,Y,427.31,,,2014-09-05 00:00:00,427.31,Atrial Fibrillation
+235296,34555955,Secondary,N,427.32,,,2014-09-05 00:00:00,427.32,Atrial Flutter
+235296,34555955,Secondary,Y,428.0,,,2014-09-05 00:00:00,428.0,"Congestive Heart Failure, Unspecified"
+235296,34555955,Secondary,N,428.33,,,2014-09-05 00:00:00,428.33,Acute on Chronic Diastolic Heart Failure
+235296,34555955,Secondary,Y,458.9,,,2014-09-05 00:00:00,458.9,"Hypotension, Unspecified"
+235296,34555955,Primary,Y,486,,,2014-09-05 00:00:00,486,"Pneumonia, Organism Unspecified"
+235296,34555955,Secondary,N,518.81,,,2014-09-05 00:00:00,518.81,Acute Respiratory Failure
+235296,34555955,Secondary,N,519.19,,,2014-09-05 00:00:00,519.19,Other Diseases of Trachea and Bronchus
+235296,34555955,Secondary,Y,571.8,,,2014-09-05 00:00:00,571.8,Other Chronic Nonalcoholic Liver Disease
+235296,34555955,Secondary,N,584.5,,,2014-09-05 00:00:00,584.5,Acute Kidney Failure with Lesion of Tubular Necrosis
+235296,34555955,Secondary,Y,584.9,,,2014-09-05 00:00:00,584.9,"Acute Kidney Failure, Unspecified"
+235296,34555955,Secondary,Y,585.3,,,2014-09-05 00:00:00,585.3,"Chronic Kidney Disease, Stage III (Moderate)"
+235296,34555955,Secondary,Y,682.6,,,2014-09-05 00:00:00,682.6,"Cellulitis and Abscess of Leg, Except Foot"
+235296,34555955,Secondary,Y,707.03,,,2014-09-05 00:00:00,707.03,"Pressure Ulcer, Lower Back"
+235296,34555955,Secondary,Y,707.10,,,2014-09-05 00:00:00,707.10,"Ulcer of Lower Limb, Unspecified"
+235296,34555955,Secondary,Y,707.22,,,2014-09-05 00:00:00,707.22,Pressure Ulcer Stage II
+235296,34555955,Secondary,,88.72,,,2014-09-09 00:00:00,88.72,Diagnostic Ultrasound of Heart
+235296,34555955,Secondary,E,V04.81,,,2014-09-05 00:00:00,V04.81,Need for Prophylactic Vaccination and Inoculation Against Influenza
+235296,34555955,Secondary,E,V12.54,,,2014-09-05 00:00:00,V12.54,"Personal History of Transient Ischemic Attack (TIA), and Cerebral Infarction without Residual Deficits"
+235296,34555955,Secondary,E,V15.82,,,2014-09-05 00:00:00,V15.82,Personal History of Tobacco Use
+235296,34555955,Secondary,E,V58.63,,,2014-09-05 00:00:00,V58.63,Long-Term (Current) Use of Antiplatelets/Antithrombotics
+235296,34555955,Secondary,E,V58.66,,,2014-09-05 00:00:00,V58.66,Long-Term (Current) Use of Aspirin
+235296,34555955,Secondary,E,V58.67,,,2014-09-05 00:00:00,V58.67,Long-Term (Current) Use of Insulin
+235296,34555955,Secondary,E,V85.41,,,2014-09-05 00:00:00,V85.41,"Body Mass Index 40.0-44.9, Adult"
+712733,33004535,Secondary,Y,305.1,,,2014-03-01 00:00:00,305.1,Tobacco Use Disorder
+712733,33004535,Secondary,Y,338.29,,,2014-03-01 00:00:00,338.29,Other Chronic Pain
+712733,33004535,Secondary,Y,340,,,2014-03-01 00:00:00,340,Multiple Sclerosis
+712733,33004535,Secondary,,38.97,,,2014-03-19 00:00:00,38.97,Central Venous Catheter Placement with Guidance
+712733,33004535,Secondary,,39.29,,,2014-03-10 00:00:00,39.29,Other (Peripheral) Vascular Shunt or Bypass
+712733,33004535,Secondary,Y,429.9,,,2014-03-01 00:00:00,429.9,"Heart Disease, Unspecified"
+712733,33004535,Primary,Y,440.24,,,2014-03-01 00:00:00,440.24,Atherosclerosis of Native Arteries of the Extremities with Gangrene
+712733,33004535,Primary,,443.9,,,2014-03-17 00:00:00,443.9,"Peripheral Vascular Disease, Unspecified"
+712733,33004535,Secondary,Y,444.22,,,2014-03-01 00:00:00,444.22,Arterial Embolism and Thrombosis of Lower Extremity
+712733,33004535,Secondary,N,486,,,2014-03-01 00:00:00,486,"Pneumonia, Organism Unspecified"
+712733,33004535,Secondary,Y,707.15,,,2014-03-01 00:00:00,707.15,Ulcer of Other Part of Foot
+712733,33004535,Primary,,84.16,,,2014-03-10 00:00:00,84.16,Disarticulation of Knee
+712733,33004535,Secondary,,84.3,,,2014-03-14 00:00:00,84.3,Revision of Amputation Stump
+712733,33004535,Secondary,,88.01,,,2014-03-11 00:00:00,88.01,Computerized Axial Tomography of Abdomen
+712733,33004535,Secondary,Y,933.1,,,2014-03-01 00:00:00,933.1,Foreign Body in Larynx
+712733,33004535,Secondary,,96.04,,,2014-03-19 00:00:00,96.04,Insertion of Endotracheal Tube
+712733,33004535,Secondary,,96.05,,,2014-03-19 00:00:00,96.05,Other Intubation of Respiratory Tract
+712733,33004535,Secondary,,96.71,,,2014-03-19 00:00:00,96.71,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+712733,33004535,Secondary,Y,E912,,,2014-03-01 00:00:00,E912,Inhalation and Ingestion of Other Object Causing Obstruction of Respiratory Tract or Suffocation
+712733,33004535,Secondary,E,V58.61,,,2014-03-01 00:00:00,V58.61,Long-Term (Current) Use of Anticoagulants

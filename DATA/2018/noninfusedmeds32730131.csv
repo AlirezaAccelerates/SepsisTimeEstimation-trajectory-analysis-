@@ -1,0 +1,2 @@
+csn,har,order_med_id,medication_id,med_name,med_name_generic,med_order_time,med_action_time,med_start_timestamp,med_stop_timestamp,med_ordered_dose,med_ordered_route_c,med_order_route,med_order_dose_unit,med_frequency,med_action_code,med_Action,med_action_dose,med_action_dose_unit,med_action_route_c,med_action_route
+32730131,NULL,4324218625,NULL,Cipro,ciprofloxacin,NULL,"2013-12-15 18:06:00","2013-12-15 18:06:00",NULL,500,NULL,"By Mouth",mg,--,NULL,NULL,NULL,NULL,NULL,"By Mouth"

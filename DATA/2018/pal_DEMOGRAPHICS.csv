@@ -1,0 +1,7 @@
+gender_code,first_name,last_name,mi,dob,pat_id,csn,gender,race,race_code,Age,death_date,ethnicity,ethnicity_code,last4_ssn
+0,NULL,NULL,NULL,NULL,107756,32697062,F,"African American",B,47,NULL,"Non-hispanic or Latino",0,NULL
+0,NULL,NULL,NULL,NULL,107770,32845700,F,White,W,43,NULL,"Non-hispanic or Latino",0,NULL
+0,NULL,NULL,NULL,NULL,107770,32845703,F,White,W,45,NULL,"Non-hispanic or Latino",0,NULL
+0,NULL,NULL,NULL,NULL,107770,32845704,F,White,W,NULL,NULL,"Non-hispanic or Latino",0,NULL
+0,NULL,NULL,NULL,NULL,107778,34550642,F,White,W,NULL,2014-01-12,"Non-hispanic or Latino",0,NULL
+0,NULL,NULL,NULL,NULL,107778,34550642,F,White,W,NULL,2014-01-12,"Non-hispanic or Latino",0,NULL

@@ -1,0 +1,3 @@
+pat_id,csn,proc_code,proc_desc,component_id,omponent,loinc_code,specimen_collect_time,order_time,order_id,result_id,lab_result_time,result_status,lab_result
+630748,32730131,X3537158,"Urine Culture (C&S)",NULL,NULL,NULL,"2013-12-15 17:28:00","2013-12-15 17:48:00",12310764141,NULL,"2013-12-15 17:28:00",Final,NULL
+630748,32730131,X3537158,"Urine Culture (C&S)",NULL,NULL,NULL,"2013-12-15 17:28:00","2013-12-15 17:48:00",12310764143,NULL,"2013-12-15 17:48:00",Modified,NULL
