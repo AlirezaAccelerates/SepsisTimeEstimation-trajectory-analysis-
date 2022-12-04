@@ -18,19 +18,20 @@ csn_list = [32621799,32634406,32653457,32712891,32718189,32730223,32829131,32891
   32968411,33004535,33247630,33391677,33392129,33443824,33484806,33507454,33528918,33545096,33615400,33769239,\
     33985447,33993069,34020391,34190087,34202175,34204793,34216325,34233328,34239355,34253149,34279786,34366236,\
       34378875,34382978,34402277,34409276,34421411,34422771,34555955,34593539,34639668,34641476,34665108,34692435,34699200,34718573,34810508,34810518]
-
-for table in tables.keys():
-    query = f"SELECT * FROM {table} where year({tables[table]}) = 2014 and csn in {tuple(csn_list)};"
+years = ['2014','2015','2016','2017','2018','2019','2020','2021']
+for year in years:
+  for table in tables.keys():
+    query = f"SELECT * FROM {table} where year({tables[table]}) = {year} and csn in {tuple(csn_list)};"
     print(query)
     df = pd.read_sql(query, conn)
     print(f"Data extracted for {table} successfully!")
-    df.to_csv(f"/home/palaka/CJ_Sepsis_Code/DATA/2014/PAL_{table.upper()}.dsv", index=False)
+    df.to_csv(f"/home/palaka/CJ_Sepsis_Code/DATA/{year}/PAL_{table.upper()}.dsv", index=False)
 
 dem_table = "demographics"
 query = f"SELECT * FROM {dem_table} where csn in {tuple(csn_list)};"
 print(query)
 df = pd.read_sql(query, conn)
 print(f"Data extracted for {dem_table} successfully!")
-df.to_csv(f"/home/palaka/CJ_Sepsis_Code/DATA/2014/PAL_{dem_table.upper()}.dsv", index=False)
+df.to_csv(f"/home/palaka/CJ_Sepsis_Code/DATA/{year}/PAL_{dem_table.upper()}.dsv", index=False)
 
 conn.close()
