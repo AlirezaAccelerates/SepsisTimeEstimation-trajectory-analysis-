@@ -1,11 +1,11 @@
 import mysql.connector as sql
 import pandas as pd
-
+                          # Should I run the conde on the cluster? I don't have access to 2014,.... files
 conn = sql.connect(
   host="crisma1.ccm.pitt.edu",
-  user="palaka",
-  password="palaka123",
-  database="PalakHB"
+  user="alireza",
+  password="alireza123",  # Is this the emory netid password?
+  database="PalakHB"      # What sould I put here?
 )
 
 tables = {"labs": "collection_time", 'gcs': "recorded_time", "bedlocation":"bed_location_start", "infusionmeds": "med_start", "encounter": "hospital_admission_date_time", "noninfusedmeds": "med_start_timestamp", "orprocedures": "surgery_date", "vasopressors": "med_start", "vitals":"recorded_time", "sensitivities": "order_time"}
@@ -24,13 +24,13 @@ for table in tables.keys():
     print(query)
     df = pd.read_sql(query, conn)
     print(f"Data extracted for {table} successfully!")
-    df.to_csv(f"/home/palaka/CJ_Sepsis_Code/DATA/2014/PAL_{table.upper()}.dsv", index=False)
+    df.to_csv(f"/home/alireza/CJ_Sepsis_Code/DATA/2014/PAL_{table.upper()}.dsv", index=False)
 
 dem_table = "demographics"
 query = f"SELECT * FROM {dem_table} where csn in {tuple(csn_list)};"
 print(query)
 df = pd.read_sql(query, conn)
 print(f"Data extracted for {dem_table} successfully!")
-df.to_csv(f"/home/palaka/CJ_Sepsis_Code/DATA/2014/PAL_{dem_table.upper()}.dsv", index=False)
+df.to_csv(f"/home/alireza/CJ_Sepsis_Code/DATA/2014/PAL_{dem_table.upper()}.dsv", index=False)
 
 conn.close()
